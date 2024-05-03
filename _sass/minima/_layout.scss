@@ -259,6 +259,19 @@
   @include relative-font-size(1.5);
 }
 
+.home-title {
+  @include relative-font-size(2);
+  
+  @media screen and (min-width: $on-large) {
+    margin-top: 2em;
+  }
+
+}
+
+.home-description {
+  @include relative-font-size(1.2);
+  font-weight: 400;
+}
 
 
 /**
