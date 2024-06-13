@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+{%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          const navLinks = document.getElementById('nav-links');
+          const headers = document.querySelectorAll('.page-contents h2');
+  
+          headers.forEach(header => {
+              // Create an ID for the header if it doesn't already have one
+              if (!header.id) {
+                  header.id = header.textContent.replace(/\s+/g, '-').toLowerCase();
+              }
+  
+              // Create a list item and anchor element
+              const li = document.createElement('li');
+              const a = document.createElement('a');
+              a.href = `#${header.id}`;
+              a.textContent = header.textContent;
+  
+              // Append the anchor to the list item and the list item to the nav
+              li.appendChild(a);
+              navLinks.appendChild(li);
+          });
+      });
+  </script>
+
+    <main class="page-content" aria-label="Content">
+      <div class="podcast-container">
+        <div class="podcast-artwork">
+            <figure>
+              <div>
+                <picture>
+                 <source type="image/webp" srcset="{{ page.artwork | escape }}.webp"><img src="{{ page.artwork | escape }}.jpg" alt="The show art for Stories for Earth" width="200px" height="200px" style="aspect-ratio: 1 /1;">
+                </picture>
+              </div>
+            </figure>
+        </div>
+        <div class="podcast-details">
+            <h1 class="episode-title" id="top">{{ page.title | escape }}</h1>
+            <p class="episode-description">{{ page.excerpt | escape }}</p>
+            <div class="podcast-links">
+              <a href="{{ page.listening-links.apple-podcasts }}" class="apple" target="_blank">Apple Podcasts</a>
+              <a href="{{ page.listening-links.spotify }}" class="spotify" target="_blank">Spotify</a>
+              <a href="{{ page.listening-links.pandora }}" class="stitcher" target="_blank">Pandora</a>
+              <a href="{{ page.listening-links.podcast-audio }}" class="download" target="_blank">Download</a>
+</div>
+        </div>
+    </div>
+      </main>
+
+      <div class="body-container">
+        <nav class="side-nav">
+          <div style="color: dimgray;"><strong>Jump to:</strong></div>
+        <ul id="nav-links">
+          <a href="#top">(Top)</a>
+            <!-- Links will be dynamically generated here -->
+        </ul>
+      </nav>
+        <div class="page-contents">
+            {%- include affiliate-disclaimer.html -%}
+            {{ content }}
+        </div>
+    </div>
+
+      <div>
+        <div>{%- include embed-audio.html -%}</div>
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

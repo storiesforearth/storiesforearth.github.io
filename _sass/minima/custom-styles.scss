@@ -1,2 +1,230 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.podcast-container {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto auto auto;
+    grid-gap: 20px;
+    align-items: start;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.podcast-artwork {
+    grid-column: 1;
+    grid-row: 1 / 4; /* Span all rows */
+}
+
+.podcast-artwork img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.podcast-title {
+    grid-column: 2;
+    grid-row: 1;
+    font-size: 2em;
+    margin: 0;
+}
+
+.podcast-description {
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 1em;
+    color: #666;
+    margin: 0;
+}
+
+.podcast-links {
+    grid-column: 2;
+    grid-row: 3;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.podcast-links a {
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: white;
+    background-color: #333;
+    transition: background-color 0.3s;
+}
+
+.podcast-links a:hover {
+    background-color: #555;
+}
+
+.podcast-links a.apple {
+    background-color: #007aff;
+}
+
+.podcast-links a.spotify {
+    background-color: #1db954;
+}
+
+.podcast-links a.stitcher {
+    background-color: #ea4c89;
+}
+
+.podcast-links a.download {
+    background-color: #000;
+}
+ .podcast-player {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-justify-content: center;
+    justify-content: center;
+    width: 100%;
+    position: -webkit-fixed;
+    position: fixed;
+    bottom: 0;
+    }
+
+  .player-window {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    width: 50%;
+    background: white;
+    -webkit-justify-content: center;
+    justify-content: center;
+    border: solid black 2px;
+    padding: .2em .5em .2em .5em;
+    box-shadow: 1px 4px 5px gray;
+  }
+
+ .podcast-wrapper {
+    max-width: 1920px;
+    padding-left: calc(100% * .08);
+    padding-right: calc(100% * .08);
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-justify-content: flex-start;
+    justify-content: flex-start;
+    -webkit-align-content: flex-start;
+    align-content: flex-start;
+    -webkit-align-items: flex-start;
+    align-items: flex-start;
+    gap: calc(100% * 0.05);
+    }
+ .podcast-item:nth-child(1) {
+    -webkit-order: 1;
+    order: 1;
+    -webkit-flex: 0 1 auto;
+    flex: 2 1 auto;
+    -webkit-align-self: auto;
+    align-self: auto;
+    }
+
+ .podcast-item:nth-child(2) {
+    -webkit-order: 2;
+    order: 2;
+    -webkit-flex: 0 1 auto;
+    flex: 2 1 auto;
+    -webkit-align-self: auto;
+    align-self: auto;
+    }
+
+    @media (max-width: 810px) {
+      .podcast-wrapper {
+        flex-direction: column;
+        padding-left: calc(100% * 0.05);
+      }
+      .player-window {
+        width: 100%;
+      }
+
+      .podcast-container {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto auto;
+        grid-gap: 20px;
+    }
+
+    .podcast-artwork {
+        grid-column: 1;
+        grid-row: 1;
+    }
+
+    .podcast-title {
+        grid-column: 1;
+        grid-row: 2;
+    }
+
+    .podcast-description {
+        grid-column: 1;
+        grid-row: 3;
+    }
+
+    .podcast-links {
+        grid-column: 1;
+        grid-row: 4;
+        justify-content: flex-start; /* Align links to the left on small screens */
+    }
+  }
+
+  .body-container {
+    display: grid;
+    grid-template-columns: 200px 1fr; /* Navigation and content columns */
+    grid-gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.side-nav {
+    position: sticky;
+    top: 20px; /* Adjust as needed */
+    align-self: start;
+}
+
+.side-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.side-nav li {
+    margin-bottom: 10px;
+}
+
+.side-nav a {
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.side-nav a:hover {
+    color: #0056b3;
+}
+
+.page-contents {
+    padding: 20px;
+}
+
+/* Responsive design for mobile devices */
+@media (max-width: 810px) {
+    .body-container {
+        grid-template-columns: 1fr; /* Single column layout */
+        grid-gap: 0;
+        padding: 0;
+    }
+
+    .side-nav {
+        display: none; /* Hide navigation on mobile */
+    }
+
+    .page-contents {
+        padding: 20px; /* Add padding for mobile view */
+    }
+}
