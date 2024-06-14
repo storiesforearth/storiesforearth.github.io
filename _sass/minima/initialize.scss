@@ -1,10 +1,40 @@
 @charset "utf-8";
 
+// Define the Cormorant font using @font-face
+@font-face {
+  font-family: 'Cormorant';
+  src: url('/assets/fonts/Cormorant/Cormorant-VariableFont_wght.ttf');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cormorant';
+  src: url('/assets/fonts/Cormorant/Cormorant-Italic-VariableFont_wght.ttf');
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mulish';
+  src: url('/assets/fonts/Mulish/Mulish-VariableFont_wght.ttf');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mulish';
+  src: url('assets/fonts/Mulish/Mulish-Italic-VariableFont_wght.ttf');
+  font-style: italic;
+  font-display: swap;
+}
+
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
+$base-font-family: 'Cormorant', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
+$base-header-family: 'Mulish', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif !default;
 $code-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
-$base-font-size:   16px !default;
+$base-font-size:   20px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;

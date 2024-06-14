@@ -47,33 +47,9 @@
 }
 
 .podcast-links a {
-    text-decoration: none;
-    padding: 10px 15px;
-    border-radius: 4px;
-    color: white;
-    background-color: #333;
-    transition: background-color 0.3s;
+  
 }
 
-.podcast-links a:hover {
-    background-color: #555;
-}
-
-.podcast-links a.apple {
-    background-color: #007aff;
-}
-
-.podcast-links a.spotify {
-    background-color: #1db954;
-}
-
-.podcast-links a.stitcher {
-    background-color: #ea4c89;
-}
-
-.podcast-links a.download {
-    background-color: #000;
-}
  .podcast-player {
     display: -webkit-flex;
     display: flex;
@@ -212,6 +188,10 @@
     padding: 20px;
 }
 
+.episode-title {
+    font-size: $base-font-size * 1.5;
+}
+
 /* Responsive design for mobile devices */
 @media (max-width: 810px) {
     .body-container {
@@ -226,5 +206,9 @@
 
     .page-contents {
         padding: 20px; /* Add padding for mobile view */
+    }
+
+    .episode-title {
+        font-size: $base-font-size * 1.1;
     }
 }

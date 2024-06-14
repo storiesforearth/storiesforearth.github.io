@@ -37,7 +37,7 @@
             <figure>
               <div>
                 <picture>
-                 <source type="image/webp" srcset="{{ page.artwork | escape }}.webp"><img src="{{ page.artwork | escape }}.jpg" alt="The show art for Stories for Earth" width="200px" height="200px" style="aspect-ratio: 1 /1;">
+                 <source type="image/webp" srcset="{{ page.artwork | escape }}.webp"><img src="{{ page.artwork | escape }}.jpg" alt="The show art for Stories for Earth." width="200px" height="200px" style="aspect-ratio: 1 /1;">
                 </picture>
               </div>
             </figure>
@@ -46,10 +46,38 @@
             <h1 class="episode-title" id="top">{{ page.title | escape }}</h1>
             <p class="episode-description">{{ page.excerpt | escape }}</p>
             <div class="podcast-links">
-              <a href="{{ page.listening-links.apple-podcasts }}" class="apple" target="_blank">Apple Podcasts</a>
-              <a href="{{ page.listening-links.spotify }}" class="spotify" target="_blank">Spotify</a>
-              <a href="{{ page.listening-links.pandora }}" class="stitcher" target="_blank">Pandora</a>
-              <a href="{{ page.listening-links.podcast-audio }}" class="download" target="_blank">Download</a>
+              <a href="{{ page.listening-links.apple-podcasts }}" class="apple" target="_blank">
+                <figure>
+                  <picture
+                    <source type="image/webp" srcset="/assets/media/en-us-small@1x.webp">
+                    <img src="/assets/media/en-us-small@1x.png" alt="Official badge for Apple Podcasts." width="150px" height="55px" style="aspect-ratio: 1 / calc(55 / 150);"
+                  </picture>
+                </figure>
+              </a>
+              <a href="{{ page.listening-links.spotify }}" class="spotify" target="_blank">
+                <figure>
+                  <picture
+                    <source type="image/webp" srcset="/assets/media/Spotify_Full_Logo_RGB_Black.webp">
+                    <img src="/assets/media/Spotify_Full_Logo_RGB_Black.png" alt="Official badge for Spotify." width="120px" height="32.8px" style="aspect-ratio: 1 / calc(41 / 150); padding-top: 10%;"
+                  </picture>
+                </figure>
+              </a>
+              <a href="{{ page.listening-links.pandora }}" class="stitcher" target="_blank">
+                <figure>
+                  <picture
+                    <source type="image/webp" srcset="assets/media/Pandora_Wordmark_Black.webp">
+                    <img src="/assets/media/Pandora_Wordmark_Black.png" alt="Official badge for Pandora." width="120" height="24.8px" style="aspect-ratio: 1 / calc(31 / 150); padding-top: 14%;"
+                  </picture>
+                </figure>
+              </a>
+              <a href="{{ page.listening-links.podcast-audio }}" class="download" target="_blank">
+                <figure>
+                  <picture
+                    <source type="image/webp" srcset="/assets/media/download_24dp_FILL0_wght400_GRAD0_opsz24.webp">
+                    <img src="/assets/media/download_24dp_FILL0_wght400_GRAD0_opsz24.png" alt="Download symbol for downloading the podcast episode." width="30px" height="30px" style="aspect-ratio: 1 / 1; padding-top: 35%;"
+                  </picture>
+                </figure>
+              </a>
 </div>
         </div>
     </div>

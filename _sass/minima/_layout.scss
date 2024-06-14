@@ -6,6 +6,7 @@
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
+  font-family: $base-header-family;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -16,7 +17,10 @@
   font-weight: 300;
   letter-spacing: -1px;
   margin-bottom: 0;
+  padding-left: 1.5em;
   float: left;
+  font-family: $base-header-family;
+  font-size: $base-font-size * 1.5;
 
   @media only screen and (min-width: 1080px) {
     margin-left: -12em ;
@@ -24,6 +28,7 @@
 
   @include media-query($on-palm) {
     padding-right: 45px;
+    padding-left: 0em;
   }
 
   &,
@@ -36,6 +41,7 @@
   float: left;
   font-weight: 300;
   margin-top: 0.2em;
+  padding-left: 3.5em;
 
   @media only screen and (min-width: 1080px) {
     margin-left: -8em !important;
@@ -43,6 +49,7 @@
 
   @media only screen and (max-width: 430px) {
     margin-top: -1em !important;
+    margin-left: -3.4em;
   }
 
   @media only screen and (min-width: 500px) {
