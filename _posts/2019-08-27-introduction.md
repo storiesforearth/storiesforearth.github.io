@@ -1,14 +1,19 @@
 ---
 layout: episode
+episode-number: 1
+season: 1
 title: Introduction to Stories for Earth
 excerpt: Climate change is an existential threat that threatens humanity’s existence. But we aren’t totally alone in fighting it—stories are some of our oldest tools for overcoming hardship, and…
+author: Forrest Brown
+publication-date: 2019-08-27
 artwork: /assets/media/Stories-for-Earth-Cover-Art
 podcast-title: Introduction to Stories for Earth
 listening-links:
   apple-podcasts: https://podcasts.apple.com/us/podcast/introduction-to-stories-for-earth/id1478061144?i=1000447966341
   spotify: https://open.spotify.com/episode/27otF4f2khR0KOAet6h5Ie?si=2ea4b69d167e4548
   pandora: https://www.stitcher.com/show/463345
-  podcast-audio: /assets/podcasts/FOR UPLOAD - Introduction copy.mp3
+  download: https://app.box.com/s/i0d5mvpojt2f3lxflej0psqqy710ge0a
+  podcast-audio: https://open.spotify.com/embed/episode/27otF4f2khR0KOAet6h5Ie?utm_source=generator&theme=0
 ---
 Today, humanity faces the greatest threat to our existence, ironically a threat of our own making: the climate crisis and ecological destruction.
 

@@ -1,0 +1,39 @@
+<!-- Begin custom episode metadata -->
+<title>{{ page.title | escape }}</title>
+<meta name="generator" content="Jekyll v4.3.3" />
+<meta property="og:title" content="{{ page.title | escape }}" />
+<meta name="author" content="{{ page.author | escape }}" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Everything climate change in pop culture." />
+<meta property="og:description" content="Everything climate change in pop culture." />
+<link rel="canonical" href="{{ page.url | absolute_url }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:site_name" content="Stories for Earth" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="{{ page.title | escape }}" />
+<script type="application/ld+json">
+    {
+       "@context": "https://schema.org/",
+       "@type": "PodcastEpisode",
+       "url": "{{ page.url | absolute_url }}",
+       "name": "{{ page.podcast-title }}",
+       "datePublished": "{{ page.publication-date }}",
+       "description": "{{ page.excerpt }}",
+       "associatedMedia": {
+         "@type": "MediaObject",
+         "contentUrl": "{{ page.listening-links.apple-podcasts }}"
+       },
+        "episodeNumber": "{{ page.episode-number }}",
+	 "partOfSeason": {
+	 "@type": "CreativeWorkSeason",
+	 "seasonNumber": "{{ page.season }}"
+       },
+	 "partOfSeries": {
+         "@type": "PodcastSeries",
+         "name": "Stories for Earth",
+         "url": "https://podcasts.apple.com/us/podcast/stories-for-earth-climate-change-in-pop-culture/id1478061144"
+       }
+    }
+    </script>
+    <!-- End custom episode metadata -->

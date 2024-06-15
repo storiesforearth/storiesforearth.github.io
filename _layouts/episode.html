@@ -8,6 +8,7 @@
     {%- include header.html -%}
 
     <script>
+      <!-- Begin JS to generate jump nav -->
       document.addEventListener("DOMContentLoaded", function() {
           const navLinks = document.getElementById('nav-links');
           const headers = document.querySelectorAll('.page-contents h2');
@@ -29,6 +30,30 @@
               navLinks.appendChild(li);
           });
       });
+
+      <!-- End JS to generate jump nav -->
+      <!-- Begin JS to format date -->
+      document.addEventListener('DOMContentLoaded', function() {
+    var dateElements = document.querySelectorAll('.date[data-date]');
+    
+    dateElements.forEach(function(element) {
+        var dateStr = element.getAttribute('data-date');
+        var dateParts = dateStr.split('-'); // Split by hyphen instead of slash
+        var year = dateParts[0];
+        var month = dateParts[1];
+        var day = dateParts[2];
+        
+        var months = [
+            "January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December"
+        ];
+        
+        var formattedDate = months[parseInt(month) - 1] + ' ' + parseInt(day) + ', ' + year;
+        
+        element.textContent = formattedDate;
+    });
+});
+      <!-- End JS to format date -->
   </script>
 
     <main class="page-content" aria-label="Content">
@@ -44,6 +69,10 @@
         </div>
         <div class="podcast-details">
             <h1 class="episode-title" id="top">{{ page.title | escape }}</h1>
+            <div class="post-metadata">
+              <div><em>by</em> {{ page.author | escape }} •</div>
+              <div class="date" data-date="{{ page.publication-date }}"></div>
+            </div>
             <p class="episode-description">{{ page.excerpt | escape }}</p>
             <div class="podcast-links">
               <a href="{{ page.listening-links.apple-podcasts }}" class="apple" target="_blank">
@@ -70,7 +99,7 @@
                   </picture>
                 </figure>
               </a>
-              <a href="{{ page.listening-links.podcast-audio }}" class="download" target="_blank">
+              <a href="{{ page.listening-links.download }}" class="download" target="_blank">
                 <figure>
                   <picture
                     <source type="image/webp" srcset="/assets/media/download_24dp_FILL0_wght400_GRAD0_opsz24.webp">
