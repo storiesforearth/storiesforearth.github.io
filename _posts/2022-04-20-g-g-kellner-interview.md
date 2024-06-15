@@ -7,7 +7,7 @@ excerpt: G.G. Kellner joins the podcast to discuss her debut novel, Hope, A Hist
 author: Forrest Brown
 publication-date: 2022-04-20
 artwork: /assets/media/Stories-for-Earth-Cover-Art
-podcast-title: G.G. Kellner, Author of "Hope, A History of the Future"
+podcast-title: G.G. Kellner, Author of Hope, A History of the Future
 listening-links:
   apple-podcasts: https://podcasts.apple.com/us/podcast/interview-g-g-kellner-author-of-hope-a-history-of-the-future/id1478061144?i=1000558145515
   spotify: https://open.spotify.com/episode/3M91dW1LzTF8pHC0X2NyGH?si=HQfSlWvFSGyWQkTsO9X3Qw
