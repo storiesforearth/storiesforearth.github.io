@@ -28,6 +28,8 @@ plugins:
 # in order as they should show up.
 header_pages:
   - start-here.md
+  - episodes.md
+  - blog.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.

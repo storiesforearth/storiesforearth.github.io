@@ -1,5 +1,7 @@
 ---
 layout: episode
+category: episodes
+tag:
 episode-number: 9
 season: 3
 title: Interview | G.G. Kellner, Author of Hope, A History of the Future

@@ -1,5 +1,7 @@
 ---
 layout: episode
+category: episodes
+tag:
 episode-number: 1
 season: 1
 title: Introduction to Stories for Earth
