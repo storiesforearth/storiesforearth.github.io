@@ -70,7 +70,7 @@ minima:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   - { platform: youtube,        user_url: "https://www.youtube.com/channel/UCGmH6FisTges9AzQlfbg-hg" }
-  - { platform: medium,         user_url: "https://medium.com/stories-for-earth" }
+  # - { platform: medium,         user_url: "https://medium.com/stories-for-earth" }
   - { platform: mastodon,       user_url: "https://theatl.social/@frrstbrwn" }
 
   listen_links:
