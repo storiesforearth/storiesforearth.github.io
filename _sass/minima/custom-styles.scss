@@ -171,6 +171,8 @@
     margin: 0 auto;
 }
 
+/* Begin side blog navigation custom CSS */
+
 .side-nav {
     position: sticky;
     top: 20px; /* Adjust as needed */
@@ -195,6 +197,8 @@
 .side-nav a:hover {
     color: #0056b3;
 }
+
+/* End side blog navigation custom CSS */
 
 .page-contents {
     padding: 20px;
@@ -224,3 +228,47 @@
         font-size: $base-font-size * 1.1;
     }
 }
+
+/* Begin custom footer CSS */
+.footer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 20px;
+    padding: 20px 40px 20px 40px;
+  }
+
+  .footer a {
+    color: #5E5E5E;
+    
+    a::hover {
+        text-decoration: underline;
+    }
+  }
+
+  .footer div {
+    margin-bottom: 10px;
+  }
+
+  .footer .social-icons {
+    display: flex;
+    gap: 10px;
+  }
+
+  .footer .social-icons a {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .footer .creative-commons {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .footer .creative-commons a {
+    display: inline-block;
+  }
+/* End custom footer CSS */
