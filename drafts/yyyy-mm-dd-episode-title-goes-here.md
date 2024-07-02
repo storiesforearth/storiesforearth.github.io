@@ -7,7 +7,7 @@ season:
 title: 
 excerpt: 
 author: Forrest Brown
-date: yyyy-mm-dd
+date: 2020-02-25
 artwork: 
 podcast-title: 
 listening-links:
