@@ -204,6 +204,10 @@
     padding: 20px;
 }
 
+.blog-post-contents {
+    padding: 1em 18em 1em 18em;
+}
+
 .episode-title {
     font-size: $base-font-size * 1.5;
 }
@@ -226,6 +230,10 @@
 
     .episode-title {
         font-size: $base-font-size * 1.1;
+    }
+
+    .blog-post-contents {
+        padding: 20px;
     }
 }
 

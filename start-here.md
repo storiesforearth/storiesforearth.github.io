@@ -7,5 +7,18 @@ Welcome to Stories for Earth, a climate change podcast about stories that can gi
 
 If you’re new to what we’re doing here, start with the episodes and articles below to learn more about what we’re up to. For the story of how we started, read [this letter](/about/#story) from our founder, Forrest Brown.
 ## Begin with these articles and episodes
-<hr>
+<ul>
+  {% assign start_here = site.posts | where: "tag", "start-here" %}
+  {% if start_here.size > 0 %}
+    {% for post in start_here %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span>{{ post.date | date: "%B %d, %Y" }}</span>
+      </li>
+    {% endfor %}
+  {% else %}
+    <div>There's nothing to see here yet.</div>
+  {% endif %}
+</ul>
+---
 _This page is a work in progress. Check back soon for more information, or feel free to [reach out](/about/#contact-us) if you have a specific question._

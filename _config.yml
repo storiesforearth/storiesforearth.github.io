@@ -80,4 +80,5 @@ minima:
     - { platform: amazon,            user_url: "https://music.amazon.com/podcasts/f7b45e4f-8972-487f-8bba-4270814e9779/stories-for-earth-climate-change-in-pop-culture" }
     - { platform: rss,               user_url: "https://anchor.fm/s/113fd96c/podcast/rss" }
 
-
+exclude:
+- drafts

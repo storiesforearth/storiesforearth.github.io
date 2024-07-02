@@ -8,7 +8,7 @@
     {%- include header.html -%}
 
     <script>
-      <!-- Begin JS to generate jump nav -->
+      // Begin JS to generate jump nav
       document.addEventListener("DOMContentLoaded", function() {
           const navLinks = document.getElementById('nav-links');
           const headers = document.querySelectorAll('.page-contents h2');
@@ -31,29 +31,7 @@
           });
       });
 
-      <!-- End JS to generate jump nav -->
-      <!-- Begin JS to format date -->
-      document.addEventListener('DOMContentLoaded', function() {
-    var dateElements = document.querySelectorAll('.date[data-date]');
-    
-    dateElements.forEach(function(element) {
-        var dateStr = element.getAttribute('data-date');
-        var dateParts = dateStr.split('-'); // Split by hyphen instead of slash
-        var year = dateParts[0];
-        var month = dateParts[1];
-        var day = dateParts[2];
-        
-        var months = [
-            "January", "February", "March", "April", "May", "June",
-            "July", "August", "September", "October", "November", "December"
-        ];
-        
-        var formattedDate = months[parseInt(month) - 1] + ' ' + parseInt(day) + ', ' + year;
-        
-        element.textContent = formattedDate;
-    });
-});
-      <!-- End JS to format date -->
+      // End JS to generate jump nav
   </script>
 
     <main class="page-content" aria-label="Content">
@@ -70,8 +48,26 @@
         <div class="podcast-details">
             <h1 class="episode-title" id="top">{{ page.title | escape }}</h1>
             <div class="post-metadata">
-              <div><em>by</em> {{ page.author | escape }} •</div>
-              <div class="date" data-date="{{ page.publication-date }}"></div>
+              {%- if page.date -%}
+              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+              <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: date_format }}
+              </time>
+              {%- endif -%}
+              {%- if page.modified_date -%}
+                ~ 
+                {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+                <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+                  {{ mdate | date: date_format }}
+                </time>
+              {%- endif -%}
+              {%- if page.author -%}
+                • {% for author in page.author %}
+                  <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                    <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+                    {%- if forloop.last == false %}, {% endif -%}
+                {% endfor %}
+              {%- endif -%}</p>
             </div>
             <p class="episode-description">{{ page.excerpt | escape }}</p>
             <div class="podcast-links">

@@ -1,11 +1,13 @@
 ---
-layout: post
-category: blog
+layout: episode
+category: episodes
 tag: 
+episode-number: 
+season: 
 title: 
 excerpt: 
 author: Forrest Brown
-publication-date: yyyy-mm-dd
+date: yyyy-mm-dd
 artwork: 
 podcast-title: 
 listening-links:
