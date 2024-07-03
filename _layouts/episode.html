@@ -129,17 +129,56 @@
     <div class="read-more">
       <hr />
       <h3>Read more</h3>
-      {%- for post in site.posts limit:5 -%}
+    </div>
+      <div class="keep-reading">
+      <!-- Begin first post -->
+      {%- for post in site.posts limit:1 -%}
       {% if post.url != page.url %}
-      <ul class="keep-reading">
-        <li>
+        <div>
           <a href="{{ post.url | relative_url }}">
             <p>{{ post.title | escape }}</p>
           </a>
-        </li>
-      </ul>
+          <p>{{ post.excerpt | escape }}</p>
+        </div>
       {% endif %}
       {%- endfor -%}
+      <!-- End first post -->
+      <!-- Begin second post -->
+      {%- for post in site.posts limit:1 offset:2 -%}
+      {% if post.url != page.url %}
+        <div>
+          <a href="{{ post.url | relative_url }}">
+            <p>{{ post.title | escape }}</p>
+          </a>
+          <p>{{ post.excerpt | escape }}</p>
+        </div>
+      {% endif %}
+      {%- endfor -%}
+      <!-- End second post -->
+      <!-- Begin third post -->
+      {%- for post in site.posts limit:1 offset:3 -%}
+      {% if post.url != page.url %}
+        <div>
+          <a href="{{ post.url | relative_url }}">
+            <p>{{ post.title | escape }}</p>
+          </a>
+          <p>{{ post.excerpt | escape }}</p>
+        </div>
+      {% endif %}
+      {%- endfor -%}
+      <!-- End third post -->
+      <!-- Begin fourth post -->
+      {%- for post in site.posts limit: 1 offset:4 -%}
+      {% if post.url != page.url %}
+        <div>
+          <a href="{{ post.url | relative_url }}">
+            <p>{{ post.title | escape }}</p>
+          </a>
+          <p>{{ post.excerpt | escape }}</p>
+        </div>
+      {% endif %}
+      {%- endfor -%}
+      <!-- End fourth post -->
     </div>
     {%- include custom-footer.html -%}
 

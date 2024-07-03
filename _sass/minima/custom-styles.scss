@@ -212,20 +212,52 @@
     font-size: $base-font-size * 1.5;
 }
 
+/* Begin "Read More" custom CSS at the bottom of posts and episodes */
+
+.read-more {
+    display: grid;
+    grid-template-columns: 1;
+    padding: 0em 18em 0em 18em;
+}
+
+.keep-reading {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 4fr));
+    grid-gap: 1em;
+    padding: 0em 18em 7em 18em;
+
+    ul {
+        list-style-type: none;
+    }
+
+}
+
+/* End "Read More" custom CSS */
+
 /* Responsive design for mobile devices */
 @media (max-width: 810px) {
+    .read-more {
+        padding: 20px;
+    }
+
+    .keep-reading {
+        grid-template-columns: 1fr;
+        padding: 0px 20px 7em 20px;
+
+    }
+
     .body-container {
-        grid-template-columns: 1fr; /* Single column layout */
+        grid-template-columns: 1fr;
         grid-gap: 0;
         padding: 0;
     }
 
     .side-nav {
-        display: none; /* Hide navigation on mobile */
+        display: none;
     }
 
     .page-contents {
-        padding: 20px; /* Add padding for mobile view */
+        padding: 20px;
     }
 
     .episode-title {
