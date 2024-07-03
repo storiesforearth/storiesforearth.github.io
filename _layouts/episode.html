@@ -126,7 +126,21 @@
         <div>{%- include embed-audio.html -%}</div>
       </div>
     </main>
-
+    <div class="read-more">
+      <hr />
+      <h3>Read more</h3>
+      {%- for post in site.posts limit:5 -%}
+      {% if post.url != page.url %}
+      <ul class="keep-reading">
+        <li>
+          <a href="{{ post.url | relative_url }}">
+            <p>{{ post.title | escape }}</p>
+          </a>
+        </li>
+      </ul>
+      {% endif %}
+      {%- endfor -%}
+    </div>
     {%- include custom-footer.html -%}
 
   </body>

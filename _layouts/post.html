@@ -23,11 +23,15 @@
       {%- endif -%}
       <div class="post-header-content">
         <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+        {%- if page.excerpt -%}
+            <div>{{ page.excerpt | escape }}</div>
+            {%- endif -%}
+            <div>
         <p class="post-meta">
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">by {% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span> • 
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {{ page.date | date: "%B %-d, %Y" }}
-            </time>
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person">by {% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</span> • 
+              <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                  {{ page.date | date: "%B %-d, %Y" }}
+              </time>
         </p>
       {%- if page.modified_date -%}
         ~ 
@@ -43,6 +47,21 @@
         {%- include affiliate-disclaimer.html -%}
         {{ content }}
     </div>
+</div>
+<div class="read-more">
+  <hr />
+  <h3>Read more</h3>
+  {%- for post in site.posts limit:5 -%}
+  {% if post.url != page.url %}
+  <ul class="keep-reading">
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        <p>{{ post.title | escape }}</p>
+      </a>
+    </li>
+  </ul>
+  {% endif %}
+  {%- endfor -%}
 </div>
 
   {%- if site.disqus.shortname -%}
