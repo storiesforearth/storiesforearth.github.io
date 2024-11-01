@@ -9,21 +9,38 @@
     grid-template-rows: auto;
     align-items: start;
     grid-template-areas:
-      "spotlight-content . post-list"
+      "spotlight-content . homepage-post-list"
       "site-title . site-description";
     margin-top: 50px;
 }
 
-.featured-content {
+.spotlight-content {
+    grid-area: spotlight-content;
     color: #000000 !important;
 
     h3 {
         font-size: $base-font-size * 2 !important;
     }
+}
 
+.homepage-post-list {
+    grid-area: homepage-post-list;
+    margin-left: 0;
+    list-style: none;
+    grid-column: 3;
+    grid-row: 1;
+  }
+
+.site-title {
+    grid-area: site-title;
+}
+
+.site-description {
+    grid-area: site-description;
 }
 
 .main-post-list {
+    grid-area: main-post-lists;
     grid-column: 1 / 4;
     grid-row: 6;
     margin-top: $spacing-unit;
@@ -34,6 +51,41 @@
 
     h3 a {
         font-size: $base-font-size * 1.2 !important;
+    }
+}
+
+.homepage-podcast-links {
+    grid-area: homepage-podcast-links;
+    grid-column: 1 / 4;
+    grid-row: 5;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+@include media-query($on-palm) {
+    .home {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+            "spotlight-content"
+            "homepage-post-list"
+            "site-title"
+            "site-description"
+            "homepage-podcast-links"
+            "main-post-list";
+    }
+
+    .spotlight-content, .homepage-post-list,
+    .main-post-list,
+    .homepage-podcast-links, .site-title, .site-description {
+        grid-column: 1 / -1;
+    }
+
+    .homepage-podcast-links {
+        flex-direction: column;
     }
 
 }
@@ -87,19 +139,6 @@
 .podcast-links {
     grid-column: 2;
     grid-row: 3;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-}
-
-.podcast-links a {
-  
-}
-
-.homepage-podcast-links {
-    grid-column: 1 / 4;
-    grid-row: 5;
-    display: -webkit-flex;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;

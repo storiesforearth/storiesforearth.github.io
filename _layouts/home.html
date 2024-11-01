@@ -15,7 +15,7 @@ layout: base
 
   {%- if posts.size > 0 -%}
   {%- for post in site.posts limit:1 -%}
-  <a class="featured-content" href="{{ post.url | relative_url }}"> 
+  <a class="spotlight-content" href="{{ post.url | relative_url }}"> 
   <div>
     {%- if post.featured-image -%}
       <figure>
@@ -38,7 +38,7 @@ layout: base
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
-    <ul class="post-list">
+    <ul class="homepage-post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts offset:1 limit:5 -%}
       <li>
