@@ -6,7 +6,7 @@ title: Where To Get Started With Climate Fiction (Cli-Fi)
 excerpt: Climate fiction is a growing genre, and it can be hard to know where to start. Here are the best cli-fi books, movies, and short stories.
 author: Forrest Brown
 date: 2020-08-10
-artwork:
+featured-image:
   link: /assets/media/blog/where-to-get-started-with-cli-fi
   alt: An image showing the covers of different books against a photo of tree limbs.
 ---

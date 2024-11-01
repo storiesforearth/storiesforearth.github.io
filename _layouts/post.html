@@ -10,12 +10,12 @@
 
   <header class="post-header">
     <div class="post-header-container">
-      {%- if page.artwork -%}
+      {%- if page.featured-image -%}
       <div class="post-artwork">
         <figure>
           <div>
             <picture>
-             <source type="image/webp" srcset="{{ page.artwork.link | escape }}.webp"><img src="{{ page.artwork.link | escape }}.jpg" alt="{{ page.artwork.alt |escape }}" width="800px" height="400px" style="aspect-ratio: 2 /1;">
+             <source type="image/webp" srcset="{{ page.featured-image.link | escape }}.webp"><img src="{{ page.featured-image.link | escape }}.jpg" alt="{{ page.featured-image.alt |escape }}" width="800px" height="400px" style="aspect-ratio: 1.77 / 1;">
             </picture>
           </div>
         </figure>

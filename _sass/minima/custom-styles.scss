@@ -1,6 +1,45 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+// Begin home page settings
+
+.home {
+    display: grid;
+    grid-template-columns: 65% 5% 30%;
+    grid-template-rows: auto;
+    align-items: start;
+    grid-template-areas:
+      "spotlight-content . post-list"
+      "site-title . site-description";
+    margin-top: 50px;
+}
+
+.featured-content {
+    color: #000000 !important;
+
+    h3 {
+        font-size: $base-font-size * 2 !important;
+    }
+
+}
+
+.main-post-list {
+    grid-column: 1 / 4;
+    grid-row: 6;
+    margin-top: $spacing-unit;
+
+    li {
+        list-style: none;
+    }
+
+    h3 a {
+        font-size: $base-font-size * 1.2 !important;
+    }
+
+}
+
+// End home page settings
+
 .post-metadata {
     display: flex;
     gap: .3em;
@@ -55,6 +94,15 @@
 
 .podcast-links a {
   
+}
+
+.homepage-podcast-links {
+    grid-column: 1 / 4;
+    grid-row: 5;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
  .podcast-player {

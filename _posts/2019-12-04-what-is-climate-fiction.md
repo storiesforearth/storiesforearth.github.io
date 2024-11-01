@@ -6,7 +6,7 @@ title: What is Climate Fiction? Cli-Fi and How It Can Help Us Respond to the Cli
 excerpt: Climate fiction or cli-fi is a form of speculative fiction that centers around climate change. I believe it can help us develop emotional resilience to deal with climate change.
 author: Forrest Brown
 date: 2019-12-04
-artwork:
+featured-image:
   link: /assets/media/blog/what is clifi/what-is-climate-fiction-1
   alt: White wind mills against a sunset in the Oregon desert.
 ---

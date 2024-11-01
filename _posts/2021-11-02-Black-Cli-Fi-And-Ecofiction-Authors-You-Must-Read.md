@@ -6,7 +6,7 @@ title: Black Cli-Fi And Ecofiction Authors You Must Read
 excerpt: Looking for Black cli-fi and ecofiction authors? From Octavia E. Butler to Tochi Onyebuchi, here are the authors you should read next.
 author: Forrest Brown
 date: 2021-11-02
-artwork:
+featured-image:
   link: /assets/media/blog/Black Cli-Fi and Ecofiction You Must Read/black-cli-fi-authors
   alt: A photo collage of all the authors beside the text, "Black Cli-Fi And Ecofiction Authors."
 ---

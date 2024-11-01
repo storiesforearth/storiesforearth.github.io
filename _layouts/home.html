@@ -3,12 +3,6 @@ layout: base
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="home-title">{{ page.title }}</h1>
-  {%- endif -%}
-  {%- if page.description -%}
-    <p class="home-description">{{ page.description }}</p>
-  {%- endif -%}
 
   {{ content }}
 
@@ -19,6 +13,26 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
+  {%- if posts.size > 0 -%}
+  {%- for post in site.posts limit:1 -%}
+  <a class="featured-content" href="{{ post.url | relative_url }}"> 
+  <div>
+    {%- if post.featured-image -%}
+      <figure>
+        <picture>
+          <source type="image/webp" srcset="{{ post.featured-image }}.webp">
+          <img src="{{ post.featured-image }}.jpg" alt="" width="500" height="281.25" style="aspect-ratio: 1.77 / 1">
+        </picture>
+      </figure>
+    {%- endif -%}
+    <h3>
+        {{ post.title | escape }}
+    </h3>
+    <p>{{ post.excerpt | escape }}</p>
+    </div>
+  </a>
+  {%- endfor -%}
+  {%- endif -%}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
@@ -26,7 +40,7 @@ layout: base
     {%- endif -%}
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
+      {%- for post in site.posts offset:1 limit:5 -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -34,10 +48,66 @@ layout: base
             {{ post.title | escape }}
           </a>
         </h3>
-          {{ post.excerpt }}
       </li>
       {%- endfor -%}
     </ul>
+
+  {%- if page.title -%}
+    <h1 class="home-title">{{ page.title }}</h1>
+  {%- endif -%}
+  {%- if page.description -%}
+    <p class="home-description">{{ page.description }}</p>
+  {%- endif -%}
+  <div class="homepage-podcast-links">
+    <a href="{{ page.listening-links.apple-podcasts }}" class="apple" target="_blank">
+      <figure>
+        <picture
+          <source type="image/webp" srcset="/assets/media/en-us-small@1x.webp">
+          <img src="/assets/media/en-us-small@1x.png" alt="Official badge for Apple Podcasts." width="150px" height="55px" style="aspect-ratio: 1 / calc(55 / 150);"
+        </picture>
+      </figure>
+    </a>
+    <a href="{{ page.listening-links.spotify }}" class="spotify" target="_blank">
+      <figure>
+        <picture
+          <source type="image/webp" srcset="/assets/media/Spotify_Full_Logo_RGB_Black.webp">
+          <img src="/assets/media/Spotify_Full_Logo_RGB_Black.png" alt="Official badge for Spotify." width="120px" height="32.8px" style="aspect-ratio: 1 / calc(41 / 150); padding-top: 10%;"
+        </picture>
+      </figure>
+    </a>
+    <a href="{{ page.listening-links.pandora }}" class="stitcher" target="_blank">
+      <figure>
+        <picture
+          <source type="image/webp" srcset="assets/media/Pandora_Wordmark_Black.webp">
+          <img src="/assets/media/Pandora_Wordmark_Black.png" alt="Official badge for Pandora." width="120" height="24.8px" style="aspect-ratio: 1 / calc(31 / 150); padding-top: 14%;"
+        </picture>
+      </figure>
+    </a>
+</div>
+
+{%- if posts.size > 0 -%}
+<ul class="main-post-list">
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- for post in site.posts offset:6 limit:5 -%}
+  <li>
+    {%- if post.featured-image -%}
+      <figure>
+        <picture>
+          <source type="image/webp" srcset="{{ post.featured-image.link }}.webp">
+          <img src="{{ post.featured-image.link }}.jpg" alt="{{ post.featured-image.alt }}" width="500" height="281.25" style="aspect-ratio: 1.77 / 1">
+        </picture>
+      </figure>
+    {%- endif -%}
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+  </li>
+  {%- endfor -%}
+</ul>
+{%- endif -%}
 
     {% if site.paginate %}
       <div class="pager">

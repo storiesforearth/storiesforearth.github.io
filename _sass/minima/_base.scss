@@ -117,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $link-base-color;
+  color: $brand-color;
   text-decoration: none;
 
   &:visited {
@@ -125,8 +125,10 @@ a {
   }
 
   &:hover {
-    color: $link-hover-color;
     text-decoration: underline;
+    text-decoration-color: $brand-color;
+    text-decoration-thickness: 2.5px;
+    -moz-text-decoration-color: $brand-color;
   }
 }
 
