@@ -28,7 +28,6 @@ For thousands of years, humans have been storytellers. We are the only species o
 Nowadays we have books, television shows, films, social media, video games, recorded music, podcasts, and other ways to relate this information, but it all started with oral traditions, with people telling stories out loud to each other, over and over again for generations.
 
 We still tell stories all the time—stories about ourselves, about others, about nature, the universe, religion, and philosophy. The stories we choose to tell and the ones we cherish help us piece together our collective consciousness.
-
 In turn, stories become tools that inform every bit of culture, from identity to values to fears. Stories tell us who we are and who we want to be. Which is exactly why I think we need stories now more than ever.
 
 Perhaps you, too, love a good story that makes you feel better equipped to grapple with the world and the human experience. If so, then this podcast is for you.

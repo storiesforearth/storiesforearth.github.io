@@ -82,3 +82,5 @@ minima:
 exclude:
 - drafts
 - tmp/
+
+permalink:    /:year/:month/:day/:title/
