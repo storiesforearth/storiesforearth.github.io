@@ -7,7 +7,7 @@ author: Forrest Brown
 date: 2019-12-04
 featured-image:
   link: /assets/media/2019/12/what-is-climate-fiction-1
-  alt: Chihiro and No Face ride on the train to go see Zeniba.
+  alt: What is Climate Fiction? Cli-Fi and How It Can Help Us Respond to the Climate Crisis
 ---
 Climate fiction, or cli-fi, is a form of speculative fiction that features a changed or changing climate as a major plot device. People have been unwittingly writing cli-fi stories and novels for decades, though the term came into heavy usage in the past 10 or so years. A 2013 article from [_Scientific American_](https://www.scientificamerican.com/article/a-look-at-the-growing-genre-of-climate-fiction/) credits journalist Dan Bloom with coining the term cli-fi, and authors like Margaret Atwood and publications like NPR, _The Atlantic_, _The Christian Science Monitor_, and the _New Yorker_ have since endorsed it.
 
