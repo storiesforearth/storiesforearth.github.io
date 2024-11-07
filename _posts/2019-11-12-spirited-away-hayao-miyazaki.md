@@ -1,21 +1,13 @@
 ---
-layout: episode
-category: episodes
-tag: 
-episode-number: 3
-season: 1
-title: Spirited Away from Hayao Miyazaki - Summary & Analysis
+layout: post
+category: blog
+title: ‘Spirited Away’ from Hayao Miyazaki
 excerpt: Spirited Away from Hayao Miyazaki is one of the most loved animated films of all time. Listen along for our discussion of environmental themes in Spirited Away.
 author: Forrest Brown
 date: 2019-11-12
-artwork: /assets/media/Stories-for-Earth-Cover-Art
-podcast-title: Spirited Away from Hayao Miyazaki
-listening-links:
-  apple-podcasts: https://podcasts.apple.com/us/podcast/stories-for-earth-climate-change-in-pop-culture/id1478061144?i=1000510304973
-  spotify: https://open.spotify.com/episode/2LktapFJm0Jy8iNNEv7ucy?si=95U8PqHlSkOO23vFCWx_IQ
-  pandora: https://www.pandora.com/podcast/stories-for-earth-climate-change-in-pop-culture/s2-e6-the-overstory-by-richard-powers-with-lovis-geier/PE:1081872888?part=ug-desktop&corr=139813900735483918
-  download: https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-1-23/6eaed024-7d51-0f03-b180-31a7ff4822ce.mp3
-  podcast-audio: https://open.spotify.com/embed/episode/2LktapFJm0Jy8iNNEv7ucy?utm_source=generator&theme=0
+featured-image:
+  link: /assets/media/2019/11/spirited-away-from-hiyao-miyazaki
+  alt: Chihiro and No Face ride on the train to go see Zeniba.
 ---
 Spirited Away from Hayao Miyazaki is a Japanese animated fairy tale film released in 2001. The movie tells the story of Chihiro, a young girl on a mission to rescue her family from the evil witch Yubaba, who turned them into pigs. Widely considered to be a coming of age story about the importance of staying true to yourself, Spirited Away also incorporates many environmental themes through characters like the Stink Spirit, Haku, and No-Face.
 ## Overview
