@@ -3,7 +3,7 @@ layout: page
 title: Episodes
 permalink: /category/episodes/
 ---
-
+Follow along as we discuss books, movies, TV shows, and more to explore what certain themes and characters can teach us about responding to climate change.
 <ul>
   {% assign podcast_episodes = site.posts | where: "category", "episodes" %}
   {% if podcast_episodes.size > 0 %}
