@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>joel burcat &#8211; Stories for Earth</title>
+	<title>| Stories for Earth</title>
 	<atom:link href="/tag/joel-burcat/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Tue, 01 Mar 2022 12:00:00 +0000</lastBuildDate>
+	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
+	<lastBuildDate>Wed, 18 Dec 2024 16:28:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 		<title>Interview: Joel Burcat, Author of &#8220;Strange Fire&#8221;</title>
 		<link>/2022/03/01/joel-burcat-strange-fire/</link>
 		
-		<dc:creator><![CDATA[stories4earth]]></dc:creator>
+		<dc:creator><![CDATA[Forrest Brown]]></dc:creator>
 		<pubDate>Tue, 01 Mar 2022 12:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<category><![CDATA[interview]]></category>
@@ -31,7 +31,9 @@
 		<category><![CDATA[stories for earth live]]></category>
 		<guid isPermaLink="false">https://storiesforearth.com/?p=1779</guid>
 
-					<description><![CDATA[Joel Burcat is back with a new Mike Jacobs environmental legal thriller: Strange Fire. I had the chance to interview Joel about his new book.]]></description>
+					<description><![CDATA[<p>Joel Burcat is back with a new Mike Jacobs environmental legal thriller: Strange Fire. I had the chance to interview Joel about his new book.</p>
+<p>The post <a href="/2022/03/01/joel-burcat-strange-fire/">Interview: Joel Burcat, Author of &#8220;Strange Fire&#8221;</a> appeared first on <a href="/">Stories for Earth</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
@@ -130,10 +132,11 @@
 <figure class="wp-block-image size-large"><a href="https://www.patreon.com/storiesforearth" target="_blank"><img decoding="async" width="434" height="102" src="/wp-content/uploads/2020/12/become_a_patron_button402x.png?w=434" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/12/become_a_patron_button402x.png 434w, /wp-content/uploads/2020/12/become_a_patron_button402x-300x71.png 300w" sizes="(max-width: 434px) 100vw, 434px" /></a></figure>
 </div></div></div></div>
 </div></div>
+<p>The post <a href="/2022/03/01/joel-burcat-strange-fire/">Interview: Joel Burcat, Author of &#8220;Strange Fire&#8221;</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></content:encoded>
 					
 		
-		<enclosure url="https://storiesforearth.files.wordpress.com/2022/02/interview-with-joel-burcat-22822-10.36-am.mp3" length="131018423" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2022/02/interview-with-joel-burcat-22822-10.36-am.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 	</channel>

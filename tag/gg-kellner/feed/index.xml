@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>gg kellner &#8211; Stories for Earth</title>
+	<title>| Stories for Earth</title>
 	<atom:link href="/tag/gg-kellner/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Wed, 20 Apr 2022 10:00:00 +0000</lastBuildDate>
+	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
+	<lastBuildDate>Wed, 18 Dec 2024 16:28:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 		<title>Interview: G.G. Kellner, Author of “Hope, A History of the Future”</title>
 		<link>/2022/04/20/g-g-kellner-interview/</link>
 		
-		<dc:creator><![CDATA[stories4earth]]></dc:creator>
+		<dc:creator><![CDATA[Forrest Brown]]></dc:creator>
 		<pubDate>Wed, 20 Apr 2022 10:00:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
 		<category><![CDATA[gg kellner]]></category>
@@ -31,7 +31,9 @@
 		<category><![CDATA[stories for earth live]]></category>
 		<guid isPermaLink="false">https://storiesforearth.com/?p=1808</guid>
 
-					<description><![CDATA[G.G. Kellner joins the podcast to discuss her debut novel, Hope, A History of the Future. She and Forrest discuss hope, resilience, and how to build a better world.]]></description>
+					<description><![CDATA[<p>G.G. Kellner joins the podcast to discuss her debut novel, Hope, A History of the Future. She and Forrest discuss hope, resilience, and how to build a better world.</p>
+<p>The post <a href="/2022/04/20/g-g-kellner-interview/">Interview: G.G. Kellner, Author of “Hope, A History of the Future”</a> appeared first on <a href="/">Stories for Earth</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
@@ -166,10 +168,11 @@
 <figure class="wp-block-image size-large"><a href="https://www.patreon.com/storiesforearth" target="_blank"><img decoding="async" width="434" height="102" src="/wp-content/uploads/2020/12/become_a_patron_button402x.png?w=434" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/12/become_a_patron_button402x.png 434w, /wp-content/uploads/2020/12/become_a_patron_button402x-300x71.png 300w" sizes="(max-width: 434px) 100vw, 434px" /></a></figure>
 </div></div></div></div>
 </div></div>
+<p>The post <a href="/2022/04/20/g-g-kellner-interview/">Interview: G.G. Kellner, Author of “Hope, A History of the Future”</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></content:encoded>
 					
 		
-		<enclosure url="https://storiesforearth.files.wordpress.com/2022/04/interview-with-g.g.-kellner-41922-9.22-pm.mp3" length="113994108" type="audio/mpeg" />
+		<enclosure url="/wp-content/uploads/2022/04/interview-with-g.g.-kellner-41922-9.22-pm.mp3" length="0" type="audio/mpeg" />
 
 			</item>
 	</channel>
