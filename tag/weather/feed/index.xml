@@ -12,7 +12,7 @@
 	<atom:link href="/tag/weather/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
-	<lastBuildDate>Sat, 12 Dec 2020 11:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Dec 2024 15:53:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,7 +23,7 @@
 		<title>&#8220;Weather&#8221; by Jenny Offill: Summary &#038; Analysis</title>
 		<link>/2020/12/12/weather-by-jenny-offill/</link>
 		
-		<dc:creator><![CDATA[stories4earth]]></dc:creator>
+		<dc:creator><![CDATA[Forrest Brown]]></dc:creator>
 		<pubDate>Sat, 12 Dec 2020 11:00:00 +0000</pubDate>
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[books]]></category>

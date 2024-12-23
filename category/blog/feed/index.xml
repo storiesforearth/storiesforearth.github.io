@@ -12,7 +12,7 @@
 	<atom:link href="/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
-	<lastBuildDate>Wed, 18 Dec 2024 16:28:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Dec 2024 17:02:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,198 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
+		<title>In &#8220;The Ministry for the Future,&#8221; New Ideas From Ancient Wisdom</title>
+		<link>/2024/12/23/ministry-for-the-future-new-ideas-ancient-wisdom/</link>
+					<comments>/2024/12/23/ministry-for-the-future-new-ideas-ancient-wisdom/#respond</comments>
+		
+		<dc:creator><![CDATA[Forrest Brown]]></dc:creator>
+		<pubDate>Mon, 23 Dec 2024 17:00:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[books]]></category>
+		<guid isPermaLink="false">/?p=2347</guid>
+
+					<description><![CDATA[<p>When we are bound in a system of reciprocity, not return on investment, we will be closer to being the kind of ancestors future people need.</p>
+<p>The post <a href="/2024/12/23/ministry-for-the-future-new-ideas-ancient-wisdom/">In &#8220;The Ministry for the Future,&#8221; New Ideas From Ancient Wisdom</a> appeared first on <a href="/">Stories for Earth</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><em>This article was originally published by <a href="https://longnow.org/ideas/in-the-ministry-for-the-future-new-ideas-from-ancient-wisdom/" target="_blank" rel="noopener">The Long Now Foundation</a> and is republished here under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">CC BY-NC-ND 4.0</a> international license.</em></p>
+
+
+
+<p>In April 02023, <a href="https://heatmap.news/politics/cost-benefit-analysis-white-house-regulation" target="_blank" rel="noopener">The White House proposed major regulatory changes</a> with huge implications for how the federal government considers the environmental impacts of new projects. The news barely made a blip in headlines.</p>
+
+
+
+<p>The proposed changes concern two arcane documents called “Circular A-4” and “Circular A-94” that set recommendations for how federal agencies conduct cost-benefit analyses for social projects. Specifically, the US Office of Management and Budget (OMB) proposed lowering the discount rate from between 3% and 7% to 1.7%.</p>
+
+
+
+<p>If you’re still there, let me explain.</p>
+
+
+
+<p>Unless you’re a policy wonk or a certain kind of federal contractor, you can be forgiven for not knowing what the discount rate is. The discount rate or the “social discount rate” is a modeling rate for discounting the cost of future impacts in terms of present value, and it’s often used in the cost-benefit analysis of social projects that will have a delayed effect. Not to be confused with the discount rate set by the US Federal Reserve, which <a href="https://www.federalreserve.gov/monetarypolicy/discountrate.htm" target="_blank" rel="noopener">sets the interest rate charged to banks</a> by the Fed, the social discount rate is mostly used by various government agencies in project planning.</p>
+
+
+
+<p>The higher the discount rate, the less we value future impacts in the present. By contrast, a lower discount rate means we place a higher value on future impacts. This often gets applied to financial figures, but it can also be applied to benefits like lives saved.</p>
+
+
+
+<p>The social cost of carbon is a good example. This metric seeks to quantify the harm caused by carbon emissions in terms of dollars. In 02021, the federal government used a 3% discount rate to arrive at a cost of <a href="https://www.whitehouse.gov/wp-content/uploads/2021/02/TechnicalSupportDocument_SocialCostofCarbonMethaneNitrousOxide.pdf" target="_blank" rel="noopener">$51 dollars per metric ton of CO2</a>, in 02020 dollars. That cost rises every five years, so at a 3% discount rate, the cost in 02020 dollars would go up to $56 in 02025, $62 in 02030, and so on.</p>
+
+
+
+<figure class="wp-block-image aligncenter blog-inline-image wp-image-2351 size-full"><img fetchpriority="high" decoding="async" width="800" height="533" src="/wp-content/uploads/2024/12/chris-leboutillier-TUJud0AWAPI-unsplash_1.jpg" alt="A photo of a port next to what appears to be a gas or coal power plant." class="wp-image-2351" srcset="/wp-content/uploads/2024/12/chris-leboutillier-TUJud0AWAPI-unsplash_1.jpg 800w, /wp-content/uploads/2024/12/chris-leboutillier-TUJud0AWAPI-unsplash_1-300x200.jpg 300w, /wp-content/uploads/2024/12/chris-leboutillier-TUJud0AWAPI-unsplash_1-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption"><em>Photo by <a href="https://unsplash.com/@chrisleboutillier?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener">Chris LeBoutillier</a> on </em><a href="https://unsplash.com/photos/TUJud0AWAPI?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener"><em>Unsplash</em></a></figcaption></figure>
+
+
+
+<p>Critics of a low-cost calculation of carbon <a href="https://www.yalejreg.com/nc/cost-benefit-analysis-and-the-problem-of-long-term-harms-from-environmental-pollution-by-rachel-rothschild/" target="_blank" rel="noopener">praised</a> the proposed decrease to a 1.7% discount rate — a sharp departure from the 7% discount rate <a href="https://www.science.org/content/article/trump-downplayed-costs-carbon-pollution-s-about-change" target="_blank" rel="noopener">employed by the Trump administration</a>. This set the social cost of carbon as low as $1 — something made possible by <a href="https://legal-planet.org/2023/04/13/revamping-cost-benefit-analysis/" target="_blank" rel="noopener">ignoring climate impacts on other countries</a> — and made it much easier for fossil fuel projects to get approval. But in the proposed changes published earlier this year, the Biden administration recommends lowering the discount rate even further for projects with more long-term effects.</p>
+
+
+
+<p>If all of this still sounds obscure and confusing, it might help to consider an example from the 02020 science fiction novel <em>The Ministry for the Future</em> by Kim Stanley Robinson.</p>
+
+
+
+<p>As far as sci-fi writers go, Kim Stanley Robinson stands out for a few reasons: he’s widely regarded as one of the best science fiction authors alive today, he writes extensively about the climate and ecological crisis, and he likes to do so through the language of political economy, throwing around terms like “<a href="https://www.bloomberg.com/news/features/2020-04-22/kim-stanley-robinson-let-the-fed-print-money-for-the-planet" target="_blank" rel="noopener">carbon quantitative easing</a>” amid the standard science fiction themes of his work. If ever there were a sci-fi writer who had his characters talk about the discount rate, it would be him.</p>
+
+
+
+<p>The book follows Mary Murphy, an Irish woman who becomes the leader of a fictional Intergovernmental Panel on Climate Change (IPCC) office called the Ministry for the Future in the year 02025. The Ministry for the Future is tasked with advocating for the rights of future people who will suffer from the climate change previous generations caused. In Chapter 32, Mary asks Dick, a minor character, what his team is doing to improve economics for future people. Dick tells Mary they’re studying some changes India has made to its discount rate, saying:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--1">
+<p>[India’s] idea is to shape the discount rate like a bell curve, with the present always at the top of the bell. So from that position, the discount rate is nearly nothing for the next seven generations, then it shifts higher at a steepening rate. Although they’re also modeling the reverse of that, in which you have a high discount rate, but only for a few generations, after which it goes to zero.</p>
+</blockquote>
+
+
+
+<p>That proposal is, of course, fictional. Yet it raises important questions about our own world — and our own economy. Why do we discount the future so heavily? What does that mean for climate change? What are some different ways we might imagine the discount rate to help fight climate change?</p>
+
+
+
+<p class="has-text-align-center">…</p>
+
+
+
+<p>Picture this: a ship sails in one direction on an endless ocean. When it stops at various ports along the way, different groups of passengers board and disembark, but the passengers have limited control over where the ship goes next, and therefore, who comes aboard. Like all ships, this one requires regular maintenance and repairs to stay seaworthy, but each group of passengers has finite time and resources it can devote to repairs before passing them off to the next group. How should current passengers spend their time and resources on repairs to be the most fair to future passengers?</p>
+
+
+
+<p>This <a href="https://ssrn.com/abstract=2780111" target="_blank" rel="noopener">analogy from philosopher Nicholas Vrousalis</a> provides an introduction to the subject of <a href="https://publicadministration.un.org/en/Intergovernmental-Support/Committee-of-Experts-on-Public-Administration/Governance-principles/Addressing-common-governance-challenges/Intergenerational-equity" target="_blank" rel="noopener">intergenerational equity</a>, or intergenerational justice. Intergenerational justice has ancient roots, with one example being the <a href="https://www.jstor.org/stable/42921470" target="_blank" rel="noopener">Seventh Generation Principle</a> found in the Potawatomi, Ojibwe, and Haudenosaunee Native American cultures.</p>
+
+
+
+<p>In the Western tradition, the political philosopher John Rawls provides much of the foundation for today’s discussions. Rawls’ idea of a <a href="https://plato.stanford.edu/entries/justice-intergenerational/?ref=longnow.org#RawlJustSaviPrin" target="_blank" rel="noopener">“just savings principle” suggests</a> people alive today should “save” enough to leave future people just institutions and the ability to enjoy the same benefits previous generations left those of us alive today. It’s sort of like political philosophy’s equivalent to the Golden Rule: live for future people the way you wish people in the past would have lived for you.</p>
+
+
+
+<p>Intergenerational justice concerns itself with determining the responsibility current generations have to other generations. These could be people who haven’t been born yet, but <a href="https://doi.org/10.1146/annurev-polisci-052715-111749" target="_blank" rel="noopener">it also includes</a> seniors and children. The social discount rate plays an important part in such discussions, and opinions differ on what that role should look like. One of the strongest arguments comes from economist Tyler Cowen and the late moral philosopher Derek Parfit.</p>
+
+
+
+<p>In their influential paper “<a href="https://www.scribd.com/document/459031940/Cowen-Parfit-Against-the-social-discount-rate" target="_blank" rel="noopener">Against the Social Discount Rate</a>,” Parfit and Cowen make the case for setting the social discount rate at 0%, effectively getting rid of it. The basic reasoning goes like this: the problems of future people will be just as real as ours are today when they arrive. How can we morally make an argument for valuing them less just because they don’t exist yet?</p>
+
+
+
+<p>Parfit and Cowen’s paper considers a number of arguments against a 0% discount rate, one of the most common of which says we should discount effects on future generations because they’ll be better off than us. Sure, Parfit and Cowen say, some future people will probably be better off than us, but some future people will also be worse off than us. That alone is a good enough reason to ditch the social discount rate.</p>
+
+
+
+<p>But <em>The Ministry for the Future</em> takes up another argument against a 0% discount rate, which I will call “The Argument from Infinity.” In Chapter 32, Dick tells Mary:</p>
+
+
+
+<blockquote class="wp-block-quote is-style-plain is-layout-flow wp-block-quote-is-layout-flow is-style-plain--2">
+<p>See, if you rate all future humans as having equal value to us alive now, they become a kind of infinity, whereas we’re a finite. If we don’t go extinct, there will eventually have been quite a lot of humans — I’ve read eight hundred billion, or even several quadrillion — it depends on how long you think we’ll go on before going extinct or evolving into something else…If we were working for [future generations] as well as ourselves, then really we should be doing everything for them. Every good project we can think of would be rated as infinitely good, thus equal to all the other good projects.</p>
+</blockquote>
+
+
+
+<p>Paradoxically, by valuing future people less, we can perhaps be better ancestors and set them up to better cope with their problems. But in an interview, Cowen told me that he doesn’t find the Argument from Infinity convincing.</p>
+
+
+
+<p>“The world’s going to end,” Cowen said. “And I don’t mean in a billion years, you know. How long do species last? You could look up the number, but it’s just not that long.”</p>
+
+
+
+<p>But what about the remaining issue Robinson brings up about all good projects being infinitely good? Wouldn’t this demand that we sacrifice everything for the sake of future generations?</p>
+
+
+
+<figure class="wp-block-image aligncenter blog-inline-image wp-image-2360 size-full"><img decoding="async" width="800" height="533" src="/wp-content/uploads/2024/12/markus-spiske-iRAvvyWZfZY-unsplash1.jpg" alt="A sign from the &quot;No Planet B&quot; global climate strike, September 2019." class="wp-image-2360" srcset="/wp-content/uploads/2024/12/markus-spiske-iRAvvyWZfZY-unsplash1.jpg 800w, /wp-content/uploads/2024/12/markus-spiske-iRAvvyWZfZY-unsplash1-300x200.jpg 300w, /wp-content/uploads/2024/12/markus-spiske-iRAvvyWZfZY-unsplash1-768x512.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption"><em>A sign from the &#8220;No Planet B&#8221; global climate strike, September 02019. Photo by <a href="https://unsplash.com/@markusspiske?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener">Markus Spiske</a> on </em><a href="https://unsplash.com/photos/iRAvvyWZfZY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" target="_blank" rel="noopener"><em>Unsplash</em></a></figcaption></figure>
+
+
+
+<p>Parfit and Cowen again reject this in their paper, not because we should be able to demand that the current generation sacrifice everything but because a social discount rate doesn’t actually address this issue. It could lead us to, for instance, forgo preventing a major catastrophe in the future even if it would cost the same as preventing a minor catastrophe tomorrow.</p>
+
+
+
+<p>Cowen expanded on this in our interview. “If you just think, ‘What can we actually do for the distant future?’ there’s very little we can do to help those people. The main thing we can do…is to leave them good institutions — a good constitution, good social norms, whatever you might put under that rubric. And that we should be very careful to make sure we do.”</p>
+
+
+
+<p>Cowen&#8217;s argument for a 0% discount rate, then, doesn&#8217;t obligate us to take on every moonshot that could save lives in 03400 or 10320. Instead, by leaving a solid foundation of options for future generations, we can grant them the same wealth of choices prior generations granted us.</p>
+
+
+
+<p class="has-text-align-center">…</p>
+
+
+
+<p>There’s one last argument in favor of non-zero discount rates worth considering here: The Argument from Special Relations. According to this argument, we all naturally use a kind of discount rate when we prioritize people who are related to us over others. For instance, most people will make sacrifices for their children before they will for strangers. Parfit and Cowen acknowledge this, saying, “Such claims might support a new kind of discount rate. We would be discounting here not for time itself, but for degrees of kinship.”</p>
+
+
+
+<p>Earlier, I mentioned the Seventh Generation Principle from various Native American cultures as an example of an intergenerational equity concept. Though this idea is far from new itself, it can help us piece together the “new kind of discount rate” Parfit and Cowen began to sketch out in their work. By listening to indigenous community leaders putting the Seventh Generation Principle into action today, it’s possible to build a roadmap for our societies as we race to reorient our ways of living to be more harmonious within planetary boundaries.</p>
+
+
+
+<p>Journalist, professor, author, and Bad River Band of Lake Superior Ojibwe citizen Patty Loew writes about this philosophy in her book <em>Seventh Generation Earth Ethics: Native Voices of Wisconsin</em>. In an interview, Loew explained the Seventh Generation Principle.</p>
+
+
+
+<p>“Seventh Generation, I think, is a broad notion of stewardship,” she said. “Seventh Generation thinking obligates us in this generation to make decisions that we think are in the best interests of generations seven into the future…And when you think about the really wicked problems that human beings face…I think those kinds of problems really require us to think with more vision.”</p>
+
+
+
+<p>Loew said this philosophy is interpreted differently across Native communities, and even within communities. Some communities, she said, interpret Seventh Generation to include three generations forward and three generations back in addition to the present generation.</p>
+
+
+
+<p>“The other thing that’s kind of interesting about Seventh Generation thinking is that it also means you look back with gratitude,” Loew said. “So the decisions that my great-great-great grandfather made when he signed two of the three Ojibwe session treaties, he was thinking about my generation and understanding that the land that he was being coerced into giving up — the reservation — was not going to be large enough to sustain the generations that came after. So we were one of the few tribes that insisted on the right to hunt, fish, and gather on the land that we were giving up.”</p>
+
+
+
+<p>Of course, the Seventh Generation Principle is part of a larger worldview that stands in stark contrast to modern ways of thinking in terms of commodities. Loew cited examples of Seventh Generation thinking during our interview, especially the <a href="https://www.nytimes.com/2023/04/22/climate/menominee-forest-sustainable-earth-day.html?unlocked_article_code=s-h7duxudOk9H0THR5yk5MJ8Bb86Ef6qpkf98GIznR23xRsdnschqVzKiTKlWC-f1u3D9Wr8KFHNwkdPRXtkiktfQK3IjOHGnp8d4ymtEXxOy2XSvZ6l5XQy3g4EHhAenWgELjav9QEfLaNfSp-QZ-e-jG_sFfHYRPFLuGqQmzP7eLGIT59oF2dAnbjEuE4LGahDAm6OAHFjELGCpZrrw7E_3RTP8sPoCB9_UR8XV1k0C8BsruN46WK4q92_v7CEQHEh0mEOe5zGafKhvP_7n4kAt9sVoIKDeT2XAomdNIlaZEHpZDQaL_l02NFZSMzJJ4M9PfGbFZ85KUSh1-EhRAc7ku4u5pNDYUFEXN2WSeQ&amp;smid=url-share" target="_blank" rel="noopener">sustainable logging and forestry management practices of the Menominee Tribe</a> in Wisconsin. Over the past 160 years, Menominee Tribal Enterprises has been sustainably logging the Menominee forest, resulting in more trees in the forest than it had before their logging operations began. Loew attributed this to a different way of thinking about the forest: instead of viewing it as a commodity, the Menominee see it as a relative.</p>
+
+
+
+<figure class="wp-block-image aligncenter size-full wp-image-2363"><img decoding="async" width="800" height="579" src="/wp-content/uploads/2024/12/0914a345-05b9-4de2-aa8e-bef4f35b31831889b2f8b6d9a18aee_Menominee_Forest_Wisconsin1.jpg" alt="Over the past 160 years, Menominee Tribal Enterprises has been sustainably logging the Menominee forest, resulting in more trees in the forest than it had before their logging operations began. In this satellite image, the forest is visible as a verdant rectangle left of center." class="wp-image-2363" srcset="/wp-content/uploads/2024/12/0914a345-05b9-4de2-aa8e-bef4f35b31831889b2f8b6d9a18aee_Menominee_Forest_Wisconsin1.jpg 800w, /wp-content/uploads/2024/12/0914a345-05b9-4de2-aa8e-bef4f35b31831889b2f8b6d9a18aee_Menominee_Forest_Wisconsin1-300x217.jpg 300w, /wp-content/uploads/2024/12/0914a345-05b9-4de2-aa8e-bef4f35b31831889b2f8b6d9a18aee_Menominee_Forest_Wisconsin1-768x556.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /><figcaption class="wp-element-caption"><em>Over the past 160 years, Menominee Tribal Enterprises has been sustainably logging the Menominee forest, resulting in more trees in the forest than it had before their logging operations began. In this satellite image, the forest is visible as a verdant rectangle left of center. Photograph by <a href="https://earthobservatory.nasa.gov/images/7766/tornadoes-strike-northern-wisconsin" target="_blank" rel="noopener">NASA</a>.</em></figcaption></figure>
+
+
+
+<p>“Right now, we have more volume of wood in our forests than we did 100 years ago…even though we’ve cut the forest, the volume, over four times since then,” Jonathan Wilber, president of Menominee Tribal Enterprises, said in <a href="https://www.insightonbusiness.com/features/coverstory/branching-out/article_e18f21be-9409-11ec-a976-0ba92b626fc4.html" target="_blank" rel="noopener">an interview with Insight on Business</a>. “We do not just manage our forest for the trees. We manage the forest for the animals, the streams, the species of plants that are out there. This forest has to be managed for the long haul.”</p>
+
+
+
+<p>In The Ministry for the Future, there’s a part of the exchange between Mary and Dick where Mary asks how the discount rate is calculated. Dick’s clever reply: “Out of a hat.” This is one major critique of the social discount rate: no matter who ends up determining it, it’s somewhat arbitrary. Some might say the same when considering ways to incorporate Seventh Generation thinking into our economic systems. After all, isn’t seven also an arbitrary number?</p>
+
+
+
+<p>But fixating on the exact number misses the point. As Cowen noted in our interview, we don’t know what people living 300 years from now will need. Instead, we should focus on leaving them good institutions, which, I would argue, should include a healthy environment. Thinking in terms of special relations — both in terms of relationships across generations and of other beings as relatives — can help us sort out the details of that broader goal. When we are bound in a system of reciprocity, not return on investment, we will be closer to being the kind of ancestors future people need.</p>
+<p>The post <a href="/2024/12/23/ministry-for-the-future-new-ideas-ancient-wisdom/">In &#8220;The Ministry for the Future,&#8221; New Ideas From Ancient Wisdom</a> appeared first on <a href="/">Stories for Earth</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/12/23/ministry-for-the-future-new-ideas-ancient-wisdom/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Interview: G.G. Kellner, Author of “Hope, A History of the Future”</title>
 		<link>/2022/04/20/g-g-kellner-interview/</link>
 		
@@ -99,7 +291,7 @@
 
 
 
-<figure class="wp-block-image size-medium"><img fetchpriority="high" decoding="async" width="323" height="502" src="/wp-content/uploads/2022/04/hope_-a-history-of-the-future.jpg?w=193" alt="Official book cover of Hope, A History of the Future by G. G. Kellner." class="wp-image-1816" srcset="/wp-content/uploads/2022/04/hope_-a-history-of-the-future.jpg 323w, /wp-content/uploads/2022/04/hope_-a-history-of-the-future-193x300.jpg 193w" sizes="(max-width: 323px) 100vw, 323px" /></figure>
+<figure class="wp-block-image size-medium"><img loading="lazy" decoding="async" width="323" height="502" src="/wp-content/uploads/2022/04/hope_-a-history-of-the-future.jpg?w=193" alt="Official book cover of Hope, A History of the Future by G. G. Kellner." class="wp-image-1816" srcset="/wp-content/uploads/2022/04/hope_-a-history-of-the-future.jpg 323w, /wp-content/uploads/2022/04/hope_-a-history-of-the-future-193x300.jpg 193w" sizes="auto, (max-width: 323px) 100vw, 323px" /></figure>
 
 
 
@@ -115,7 +307,7 @@
 
 
 
-<figure class="wp-block-image size-medium"><img decoding="async" width="375" height="500" src="/wp-content/uploads/2022/04/g.g.-kellner.jpg?w=225" alt="" class="wp-image-1820" srcset="/wp-content/uploads/2022/04/g.g.-kellner.jpg 375w, /wp-content/uploads/2022/04/g.g.-kellner-225x300.jpg 225w" sizes="(max-width: 375px) 100vw, 375px" /><figcaption>Image credit: hopeahistoryofthefuture.com/about</figcaption></figure>
+<figure class="wp-block-image size-medium"><img loading="lazy" decoding="async" width="375" height="500" src="/wp-content/uploads/2022/04/g.g.-kellner.jpg?w=225" alt="" class="wp-image-1820" srcset="/wp-content/uploads/2022/04/g.g.-kellner.jpg 375w, /wp-content/uploads/2022/04/g.g.-kellner-225x300.jpg 225w" sizes="auto, (max-width: 375px) 100vw, 375px" /><figcaption>Image credit: hopeahistoryofthefuture.com/about</figcaption></figure>
 
 
 
@@ -165,7 +357,7 @@
 
 
 
-<figure class="wp-block-image size-large"><a href="https://www.patreon.com/storiesforearth" target="_blank"><img decoding="async" width="434" height="102" src="/wp-content/uploads/2020/12/become_a_patron_button402x.png?w=434" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/12/become_a_patron_button402x.png 434w, /wp-content/uploads/2020/12/become_a_patron_button402x-300x71.png 300w" sizes="(max-width: 434px) 100vw, 434px" /></a></figure>
+<figure class="wp-block-image size-large"><a href="https://www.patreon.com/storiesforearth" target="_blank"><img loading="lazy" decoding="async" width="434" height="102" src="/wp-content/uploads/2020/12/become_a_patron_button402x.png?w=434" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/12/become_a_patron_button402x.png 434w, /wp-content/uploads/2020/12/become_a_patron_button402x-300x71.png 300w" sizes="auto, (max-width: 434px) 100vw, 434px" /></a></figure>
 </div></div></div></div>
 </div></div>
 <p>The post <a href="/2022/04/20/g-g-kellner-interview/">Interview: G.G. Kellner, Author of “Hope, A History of the Future”</a> appeared first on <a href="/">Stories for Earth</a>.</p>
@@ -1610,116 +1802,6 @@
 </div></div></div></div>
 </div></div>
 <p>The post <a href="/2021/05/12/cc-berke-man-kind/">Interview: C.C. Berke, Author of &#8220;Man, Kind&#8221;</a> appeared first on <a href="/">Stories for Earth</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Interview: Julie Carrick Dalton, Author of &#8220;Waiting for the Night Song&#8221;</title>
-		<link>/2021/04/21/julie-carrick-dalton-waiting-for-the-night-song/</link>
-		
-		<dc:creator><![CDATA[Forrest Brown]]></dc:creator>
-		<pubDate>Wed, 21 Apr 2021 13:48:28 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[interview]]></category>
-		<category><![CDATA[stories for earth live]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1411</guid>
-
-					<description><![CDATA[<p>Julie Carrick Dalton is the author of the award-winning novel Waiting for the Night Song. In this interview, we discuss the climate change themes in her book.</p>
-<p>The post <a href="/2021/04/21/julie-carrick-dalton-waiting-for-the-night-song/">Interview: Julie Carrick Dalton, Author of &#8220;Waiting for the Night Song&#8221;</a> appeared first on <a href="/">Stories for Earth</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
-
-
-
-<hr class="wp-block-separator" />
-
-
-
-<p>One February morning, I jumped on a Zoom call to interview Julie Carrick Dalton, author of the popular new novel <em>Waiting for the Night Song</em>. Julie spoke with me from New England, where she works as a journalist and runs a small organic farm with her husband. <em>Waiting for the Night Song</em> is Julie&#8217;s debut novel, and we talk all about it, covering topics like climate refugees, increasing forest fires, and the friction that can occur between science and government.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-spotify wp-block-embed-spotify wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="embed-spotify"><iframe title="Spotify Embed: Interview: Julie Carrick Dalton, Author of &quot;Waiting for the Night Song&quot;" style="border-radius: 12px" width="100%" height="152" frameborder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" src="https://open.spotify.com/embed/episode/6Y4BNMBTJfUIaZESrRf4hx?si=add55a0343334fdc&#038;utm_source=oembed"></iframe></div>
-</div></figure>
-
-
-
-<p>Since its publication, <em>Waiting for the Night Song</em> has won multiple awards, been selected as an Amazon editor&#8217;s pick, and garnered praise from acclaimed cli-fi author Omar El Akkad and Amy Brady, executive director of <em>Orion Magazine</em> and author of the column &#8220;Burning Worlds&#8221; in the <em>Chicago Review of Books</em>. It was an honor getting to talk to Julie, and I hope you enjoy our conversation as much as I did.</p>
-
-
-
-<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="embed-youtube"><iframe loading="lazy" title="Interview: Julie Carrick Dalton, Author of &quot;Waiting for the Night Song&quot;" width="500" height="281" src="https://www.youtube.com/embed/8CaLBeMJTNw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-</div></figure>
-
-
-
-<h2 class="wp-block-heading">&#8220;Waiting for the Night Song&#8221; by <strong>Julie Carrick Dalton</strong></h2>
-
-
-
-<figure class="wp-block-image size-medium"><img loading="lazy" decoding="async" width="647" height="1000" src="/wp-content/uploads/2021/04/waiting-for-the-night-song-book-cover.jpeg?w=194" alt="Official book cover for Waiting for the Night Song by Julie Carrick Dalton." class="wp-image-1415" srcset="/wp-content/uploads/2021/04/waiting-for-the-night-song-book-cover.jpeg 647w, /wp-content/uploads/2021/04/waiting-for-the-night-song-book-cover-194x300.jpeg 194w" sizes="auto, (max-width: 647px) 100vw, 647px" /></figure>
-
-
-
-<ul class="wp-block-list"><li><a rel="noreferrer noopener" href="http://www.worldcat.org/oclc/1246143552" target="_blank">Find at your local library</a></li><li><a rel="noreferrer noopener" href="https://www.dpbolvw.net/click-100299265-10487484?url=https%3A%2F%2Fwww.betterworldbooks.com%2Fproduct%2Fdetail%2FWaiting-for-the-Night-Song-9781250269188" target="_blank">Buy on Better World Books from $23.79</a> <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f331.png" alt="🌱" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li><li><a rel="noreferrer noopener" href="https://bookshop.org/a/140/9781250269188" target="_blank">Buy on Bookshop from $24.83</a></li><li><a href="https://www.amazon.com/Waiting-Night-Julie-Carrick-Dalton/dp/1250269180/ref=sr_1_1?crid=2KXMH66QJ8R82&amp;dchild=1&amp;keywords=waiting+for+the+night+song+julie+carrick+dalton&amp;qid=1619010230&amp;s=books&amp;sprefix=waiting+for+the+night+song%2Caps%2C163&amp;sr=1-1" target="_blank" rel="noreferrer noopener">Buy on Amazon from $17.99</a></li></ul>
-
-
-
-<h2 class="wp-block-heading">About the author</h2>
-
-
-
-<figure class="wp-block-image size-medium"><img loading="lazy" decoding="async" width="1300" height="1950" src="/wp-content/uploads/2021/04/juliecarrickdalton.jpeg?w=200" alt="Photo of author Julie Carrick Dalton." class="wp-image-1421" srcset="/wp-content/uploads/2021/04/juliecarrickdalton.jpeg 1300w, /wp-content/uploads/2021/04/juliecarrickdalton-200x300.jpeg 200w, /wp-content/uploads/2021/04/juliecarrickdalton-683x1024.jpeg 683w, /wp-content/uploads/2021/04/juliecarrickdalton-768x1152.jpeg 768w, /wp-content/uploads/2021/04/juliecarrickdalton-1024x1536.jpeg 1024w" sizes="auto, (max-width: 1300px) 100vw, 1300px" /></figure>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>Julie Carrick Dalton grew up in Maryland and on a military base in Germany. As an adult, she bounced around from Seattle to Dallas to Virginia, before finding her true home in Boston, where she has lived for more than twenty years. Her writing has appeared in&nbsp;<em>The Boston Globe, BusinessWeek, The Hollywood Reporter, Electric Literature</em>, and other publications. She contributes to <em>The Chicago Review of Books, DeadDarlings</em>, and <em>The Writer Unboxed</em>. A&nbsp;<em>Tin House</em>&nbsp;alum and graduate of GrubStreet’s Novel Incubator, Julie holds a Master’s in Literature and Creative Writing from Harvard Extension School. She is a frequent speaker on the topic of writing fiction in the age of climate crisis. Mom to four kids and two dogs, Julie is a passionate skier, hiker, and kayaker. She also owns and operates an organic farm. Please excuse her dirty fingernails.</p><cite>&#8211; &#8220;Bio,&#8221; Julie Carrick Dalton official website</cite></blockquote>
-
-
-
-<ul class="wp-block-list" id="block-4c17adaf-619f-40f0-b09e-194e6bf25458"><li><a href="https://juliecarrickdalton.com/" target="_blank" rel="noreferrer noopener">Official website</a></li><li><a rel="noreferrer noopener" href="https://www.facebook.com/juliecarrickdalton/" target="_blank">Julie on Facebook</a></li><li><a href="https://twitter.com/juliecardalt" target="_blank" rel="noreferrer noopener">Julie on Twitter</a></li><li><a href="https://www.instagram.com/juliecdalton/" target="_blank" rel="noreferrer noopener">Julie on Instagram</a></li><li><a href="https://www.goodreads.com/author/show/17548651.Julie_Carrick_Dalton" target="_blank" rel="noreferrer noopener">Julie on Goodreads</a></li></ul>
-
-
-
-<h2 class="wp-block-heading">What you can do to help</h2>
-
-
-
-<figure class="wp-block-image size-medium"><img loading="lazy" decoding="async" width="700" height="368" src="/wp-content/uploads/2019/08/nrdc-logo.png?w=300" alt="Official logo of the Natural Resources Defense Council (NRDC)." class="wp-image-106" srcset="/wp-content/uploads/2019/08/nrdc-logo.png 700w, /wp-content/uploads/2019/08/nrdc-logo-300x158.png 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /></figure>
-
-
-
-<p><strong>Website:</strong> <a rel="noreferrer noopener" href="https://www.nrdc.org/" target="_blank">https://www.nrdc.org/</a><br><strong>Charity Navigator Rating:</strong> 94.87/100 (<a href="https://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=4207" target="_blank" rel="noreferrer noopener">source</a>) </p>
-
-
-
-<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>NRDC works to safeguard the earth—its people, its plants and animals, and the natural systems on which all life depends.</p><cite>&#8211; &#8220;About Us,&#8221; NRDC official site</cite></blockquote>
-
-
-
-<h2 class="wp-block-heading">Recommended reading</h2>
-
-
-
-<ul class="wp-block-list"><li><a href="https://storiesforearth.com/2021/02/23/the-overstory-richard-powers/">Interview: Craig Russell, Author of &#8220;Fragment&#8221;</a></li><li><a href="https://storiesforearth.com/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/">&#8220;Gun Island&#8221; and &#8220;The Great Derangement&#8221; by Amitav Ghosh: Summary &amp; Analysis</a></li><li><a href="https://storiesforearth.com/2019/12/04/what-is-climate-fiction/">What is Climate Fiction? Cli-Fi and How It Can Help Us Respond to the Climate Crisis</a></li></ul>
-
-
-
-<div class="wp-block-group alignfull"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
-<div class="wp-block-coblocks-hero alignfull coblocks-hero-82610395659"><div class="wp-block-coblocks-hero__inner has-background hero-center-left-align has-padding has-huge-padding has-left-content" style="background-color:#f3f3f3;min-height:500px;"><div class="wp-block-coblocks-hero__content-wrapper"><div class="wp-block-coblocks-hero__content" style="max-width:560px;">
-<h2 class="wp-block-heading">Like what you see? Become a Patreon member today for as little as $1 a month.</h2>
-
-
-
-<figure class="wp-block-image size-large"><a href="https://www.patreon.com/storiesforearth" target="_blank"><img loading="lazy" decoding="async" width="434" height="102" src="/wp-content/uploads/2020/12/become_a_patron_button402x.png?w=434" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/12/become_a_patron_button402x.png 434w, /wp-content/uploads/2020/12/become_a_patron_button402x-300x71.png 300w" sizes="auto, (max-width: 434px) 100vw, 434px" /></a></figure>
-</div></div></div></div>
-</div></div>
-<p>The post <a href="/2021/04/21/julie-carrick-dalton-waiting-for-the-night-song/">Interview: Julie Carrick Dalton, Author of &#8220;Waiting for the Night Song&#8221;</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></content:encoded>
 					
 		
