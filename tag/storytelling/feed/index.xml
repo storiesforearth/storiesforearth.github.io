@@ -10,7 +10,7 @@
 <channel>
 	<title>Stories for Earth</title>
 	<atom:link href="/tag/storytelling/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://storiesforearth.com/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
 	<lastBuildDate>Mon, 23 Dec 2024 15:53:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/cropped-new-stories-for-earth-book-150x150.png</url>
+	<title>Stories for Earth</title>
+	<link>https://storiesforearth.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>&#8220;Parable of the Sower&#8221; by Octavia E. Butler: Summary &#038; Analysis</title>
 		<link>/2019/09/10/parable-of-the-sower-octavia-butler/</link>
@@ -33,13 +41,13 @@
 		<category><![CDATA[parable series]]></category>
 		<category><![CDATA[science fiction]]></category>
 		<category><![CDATA[storytelling]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=225</guid>
+		<guid isPermaLink="false">/?p=225</guid>
 
 					<description><![CDATA[<p>Parable of the Sower by Octavia Butler examines a near-future United States wrecked by climate change. Here's how it can help us today.</p>
 <p>The post <a href="/2019/09/10/parable-of-the-sower-octavia-butler/">&#8220;Parable of the Sower&#8221; by Octavia E. Butler: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -105,7 +113,7 @@
 
 
 
-<p><em>Parable of the Sower</em> by Octavia E. Butler (<a href="https://bookshop.org/a/140/9781538732182" target="_blank" rel="noreferrer noopener">buy on Bookshop from $15.63</a>) is a groundbreaking speculative fiction novel that tells the story of young Lauren Olamina as she journeys to Northern California to escape ecological and societal collapse in Southern California. Today, the book is heralded as one of the first major works of <a href="https://storiesforearth.com/2019/12/04/what-is-climate-fiction/">climate fiction or cli-fi</a>. After Lauren&#8217;s town is destroyed by an outlaw group of drug addicts, she must learn to survive in a world reeling from the devastating effects of climate change. Along the way, Lauren starts a religion called Earthseed, forms a ragtag band of followers, and makes plans to found her own sustainable community in Northern California.</p>
+<p><em>Parable of the Sower</em> by Octavia E. Butler (<a href="https://bookshop.org/a/140/9781538732182" target="_blank" rel="noreferrer noopener">buy on Bookshop from $15.63</a>) is a groundbreaking speculative fiction novel that tells the story of young Lauren Olamina as she journeys to Northern California to escape ecological and societal collapse in Southern California. Today, the book is heralded as one of the first major works of <a href="/2019/12/04/what-is-climate-fiction/">climate fiction or cli-fi</a>. After Lauren&#8217;s town is destroyed by an outlaw group of drug addicts, she must learn to survive in a world reeling from the devastating effects of climate change. Along the way, Lauren starts a religion called Earthseed, forms a ragtag band of followers, and makes plans to found her own sustainable community in Northern California.</p>
 
 
 
@@ -293,7 +301,7 @@ https://www.youtube.com/watch?v=66pu-Miq4tk
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2019/10/08/parable-of-the-talents-octavia-butler/">&#8220;Parable of the Talents&#8221; by Octavia E. Butler</a></p>
+<p><strong>Also read:</strong> <a href="/2019/10/08/parable-of-the-talents-octavia-butler/">&#8220;Parable of the Talents&#8221; by Octavia E. Butler</a></p>
 
 
 
@@ -409,7 +417,7 @@ https://www.youtube.com/watch?v=66pu-Miq4tk
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -522,9 +530,9 @@ https://www.youtube.com/watch?v=66pu-Miq4tk
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[introduction]]></category>
 		<category><![CDATA[storytelling]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=207</guid>
+		<guid isPermaLink="false">/?p=207</guid>
 
-					<description><![CDATA[<p>Climate change is an existential threat that threatens humanity's existence. But we aren't totally alone in fighting it—stories are some of our oldest tools for overcoming hardship, and they have a role to play here, too. Website: https://storiesforearth.com/ Support us on Patreon: https://www.patreon.com/storiesforearth</p>
+					<description><![CDATA[<p>Climate change is an existential threat that threatens humanity's existence. But we aren't totally alone in fighting it—stories are some of our oldest tools for overcoming hardship, and they have a role to play here, too. Website: / Support us on Patreon: https://www.patreon.com/storiesforearth</p>
 <p>The post <a href="/2019/08/27/introduction/">Introduction to Stories for Earth</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[

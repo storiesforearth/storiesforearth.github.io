@@ -10,7 +10,7 @@
 <channel>
 	<title>Stories for Earth</title>
 	<atom:link href="/tag/spirited-away/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://storiesforearth.com/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
 	<lastBuildDate>Mon, 23 Dec 2024 15:53:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/cropped-new-stories-for-earth-book-150x150.png</url>
+	<title>Stories for Earth</title>
+	<link>https://storiesforearth.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>&#8220;Spirited Away&#8221; from Hayao Miyazaki</title>
 		<link>/2019/11/12/episode-3-spirited-away-from-hiyao-miyazaki/</link>
@@ -32,13 +40,13 @@
 		<category><![CDATA[movies]]></category>
 		<category><![CDATA[spirited away]]></category>
 		<category><![CDATA[studio ghibli]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=422</guid>
+		<guid isPermaLink="false">/?p=422</guid>
 
 					<description><![CDATA[<p>Spirited Away from Hayao Miyazaki is one of the most loved animated films of all time. Listen along for our discussion of environmental themes in Spirited Away.</p>
 <p>The post <a href="/2019/11/12/episode-3-spirited-away-from-hiyao-miyazaki/">&#8220;Spirited Away&#8221; from Hayao Miyazaki</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -164,7 +172,7 @@
 
 
 
-<p>Two things: first, we have a website at <a href="https://storiesforearth.com/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">storiesforearth.com</a>. There you can find transcripts of the show, articles about the stories we discuss, and recommendations for further reading, among other content. We&#8217;re also on <a href="https://www.instagram.com/storiesforearth/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)">Instagram</a>, <a href="https://twitter.com/stories4earth/" target="_blank" rel="noreferrer noopener" aria-label="Twitter (opens in a new tab)">Twitter</a>, and <a href="https://www.youtube.com/channel/UCGmH6FisTges9AzQlfbg-hg" target="_blank" rel="noreferrer noopener" aria-label="YouTube (opens in a new tab)">YouTube</a> if you want to follow us on social media.</p>
+<p>Two things: first, we have a website at <a href="/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">storiesforearth.com</a>. There you can find transcripts of the show, articles about the stories we discuss, and recommendations for further reading, among other content. We&#8217;re also on <a href="https://www.instagram.com/storiesforearth/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)">Instagram</a>, <a href="https://twitter.com/stories4earth/" target="_blank" rel="noreferrer noopener" aria-label="Twitter (opens in a new tab)">Twitter</a>, and <a href="https://www.youtube.com/channel/UCGmH6FisTges9AzQlfbg-hg" target="_blank" rel="noreferrer noopener" aria-label="YouTube (opens in a new tab)">YouTube</a> if you want to follow us on social media.</p>
 
 
 
@@ -380,7 +388,7 @@
 
 
 
-<p>That’s it for our discussion of <em>Spirited Away</em>. If you like what you heard today and want to learn more, visit our website at <a href="https://storiesforearth.com/" target="_blank" rel="noreferrer noopener" aria-label="storiesforearth.com (opens in a new tab)">storiesforearth.com</a> for more episodes, articles, and recommendations for further reading.</p>
+<p>That’s it for our discussion of <em>Spirited Away</em>. If you like what you heard today and want to learn more, visit our website at <a href="/" target="_blank" rel="noreferrer noopener" aria-label="storiesforearth.com (opens in a new tab)">storiesforearth.com</a> for more episodes, articles, and recommendations for further reading.</p>
 
 
 

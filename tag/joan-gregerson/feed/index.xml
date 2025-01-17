@@ -10,7 +10,7 @@
 <channel>
 	<title>Stories for Earth</title>
 	<atom:link href="/tag/joan-gregerson/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://storiesforearth.com/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
 	<lastBuildDate>Mon, 23 Dec 2024 15:53:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/cropped-new-stories-for-earth-book-150x150.png</url>
+	<title>Stories for Earth</title>
+	<link>https://storiesforearth.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Stories for Earth Live: Joan Gregerson, Author of “Climate Action Challenge”</title>
 		<link>/2020/08/23/joan-gregerson-climate-action-challenge/</link>
@@ -30,7 +38,7 @@
 		<category><![CDATA[joan gregerson]]></category>
 		<category><![CDATA[nonfiction]]></category>
 		<category><![CDATA[stories for earth live]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=933</guid>
+		<guid isPermaLink="false">/?p=933</guid>
 
 					<description><![CDATA[<p>Joan Gregerson is the author of Climate Action Challenge. Watch our full conversation about taking climate action here.</p>
 <p>The post <a href="/2020/08/23/joan-gregerson-climate-action-challenge/">Stories for Earth Live: Joan Gregerson, Author of “Climate Action Challenge”</a> appeared first on <a href="/">Stories for Earth</a>.</p>

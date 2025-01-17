@@ -10,7 +10,7 @@
 <channel>
 	<title>Stories for Earth</title>
 	<atom:link href="/tag/season-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://storiesforearth.com/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
 	<lastBuildDate>Wed, 18 Dec 2024 16:28:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/cropped-new-stories-for-earth-book-150x150.png</url>
+	<title>Stories for Earth</title>
+	<link>https://storiesforearth.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>&#8220;Gun Island&#8221; and &#8220;The Great Derangement&#8221; by Amitav Ghosh: Summary &#038; Analysis</title>
 		<link>/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/</link>
@@ -28,13 +36,13 @@
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[season 2]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1340</guid>
+		<guid isPermaLink="false">/?p=1340</guid>
 
 					<description><![CDATA[<p>Gun Island and The Great Derangement are two books by Amitav Ghosh that explore the role stories should play in fighting the climate crisis.</p>
 <p>The post <a href="/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/">&#8220;Gun Island&#8221; and &#8220;The Great Derangement&#8221; by Amitav Ghosh: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -162,7 +170,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2019/12/23/beasts-of-the-southern-wild-climate-change/">&#8220;Beasts of the Southern Wild,&#8221; Hurricane Katrina, and Climate Change</a></p>
+<p><strong>Also read:</strong> <a href="/2019/12/23/beasts-of-the-southern-wild-climate-change/">&#8220;Beasts of the Southern Wild,&#8221; Hurricane Katrina, and Climate Change</a></p>
 
 
 
@@ -246,7 +254,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
+<p><strong>Also read:</strong> <a href="/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
 
 
 
@@ -382,7 +390,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2021/02/23/the-overstory-richard-powers/">&#8220;The Overstory&#8221; by Richard Powers with Lovis Geier: Summary &amp; Analysis</a></p>
+<p><strong>Also read:</strong> <a href="/2021/02/23/the-overstory-richard-powers/">&#8220;The Overstory&#8221; by Richard Powers with Lovis Geier: Summary &amp; Analysis</a></p>
 
 
 
@@ -482,7 +490,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
+<p><strong>Also read:</strong> <a href="/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
 
 
 
@@ -510,7 +518,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -538,7 +546,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a></p>
+<p><strong>Also read:</strong> <a href="/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a></p>
 
 
 
@@ -742,13 +750,13 @@
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[season 2]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1223</guid>
+		<guid isPermaLink="false">/?p=1223</guid>
 
 					<description><![CDATA[<p>The Overstory by Richard Powers is an epic work of eco fiction. Forrest and Lovis discuss its characters, themes, and message in this podcast.</p>
 <p>The post <a href="/2021/02/23/the-overstory-richard-powers/">&#8220;The Overstory&#8221; by Richard Powers with Lovis Geier: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -954,7 +962,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
+<p><strong>Also read:</strong> <a href="/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
 
 
 
@@ -1054,7 +1062,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2019/09/10/parable-of-the-sower-octavia-butler/">&#8220;Parable of the Sower&#8221; by Octavia E. Butler</a></p>
+<p><strong>Also read:</strong> <a href="/2019/09/10/parable-of-the-sower-octavia-butler/">&#8220;Parable of the Sower&#8221; by Octavia E. Butler</a></p>
 
 
 
@@ -1276,7 +1284,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -1404,7 +1412,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
+<p><strong>Also read:</strong> <a href="/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
 
 
 
@@ -1488,7 +1496,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">Joy Harjo: &#8220;Crazy Brave,&#8221; &#8220;An American Sunset,&#8221; And The Land</a></p>
+<p><strong>Also read:</strong> <a href="/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">Joy Harjo: &#8220;Crazy Brave,&#8221; &#8220;An American Sunset,&#8221; And The Land</a></p>
 
 
 
@@ -2284,13 +2292,13 @@
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[music]]></category>
 		<category><![CDATA[season 2]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=1122</guid>
+		<guid isPermaLink="false">/?p=1122</guid>
 
 					<description><![CDATA[<p>Infest The Rats' Nest by King Gizzard &#38; The Lizard Wizard is an album about people forced to flee Earth due to climate collapse while the rich live it up on Mars.</p>
 <p>The post <a href="/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -2420,7 +2428,7 @@
 
 
 
-<p>If you want to support further production of the show, visit our Support Us page at <a href="https://storiesforearth.com/support-us/">storiesforearth.com/support-us/</a>. You can get early access to new episodes in addition to other perks by becoming a member on <a href="https://www.patreon.com/storiesforearth" target="_blank" rel="noreferrer noopener">Patreon</a>, or you can make a one-time donation through PayPal or buy some of the books we talk about using the links on our website. Okay, I’ll shut up now and get to the episode. I hope you enjoy.</p>
+<p>If you want to support further production of the show, visit our Support Us page at <a href="/support-us/">storiesforearth.com/support-us/</a>. You can get early access to new episodes in addition to other perks by becoming a member on <a href="https://www.patreon.com/storiesforearth" target="_blank" rel="noreferrer noopener">Patreon</a>, or you can make a one-time donation through PayPal or buy some of the books we talk about using the links on our website. Okay, I’ll shut up now and get to the episode. I hope you enjoy.</p>
 
 
 
@@ -2666,7 +2674,7 @@
 
 
 
-<p>Something happens after the rebels land on Venus, and they go insane, becoming sort of infatuated with fire and wanting to fling themselves into volcanos. In some ways, this kind of reminds me of the very first episode we ever did on <em>Stories for Earth</em>, which was about <a href="https://storiesforearth.com/2019/09/10/parable-of-the-sower-octavia-butler/"><em>Parable of the Sower</em> by Octavia E. Butler</a>. In the book, there are these gangs who pillage towns to get money to fuel their addiction to a drug called Pyro, which makes the act of staring into fire intensely pleasurable. The draw to stare into flames is so intense that many of the people addicted to Pyro actually ended up falling into the fire themselves and dying.</p>
+<p>Something happens after the rebels land on Venus, and they go insane, becoming sort of infatuated with fire and wanting to fling themselves into volcanos. In some ways, this kind of reminds me of the very first episode we ever did on <em>Stories for Earth</em>, which was about <a href="/2019/09/10/parable-of-the-sower-octavia-butler/"><em>Parable of the Sower</em> by Octavia E. Butler</a>. In the book, there are these gangs who pillage towns to get money to fuel their addiction to a drug called Pyro, which makes the act of staring into fire intensely pleasurable. The draw to stare into flames is so intense that many of the people addicted to Pyro actually ended up falling into the fire themselves and dying.</p>
 
 
 

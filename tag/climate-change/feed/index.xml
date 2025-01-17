@@ -10,7 +10,7 @@
 <channel>
 	<title>Stories for Earth</title>
 	<atom:link href="/tag/climate-change/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://storiesforearth.com/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
 	<lastBuildDate>Mon, 23 Dec 2024 15:53:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/cropped-new-stories-for-earth-book-150x150.png</url>
+	<title>Stories for Earth</title>
+	<link>https://storiesforearth.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Coming Soon: Stories for Earth Season 3</title>
 		<link>/2021/08/10/coming-soon-season-3/</link>
@@ -30,13 +38,13 @@
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[season 3]]></category>
 		<category><![CDATA[trailer]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1535</guid>
+		<guid isPermaLink="false">/?p=1535</guid>
 
 					<description><![CDATA[<p>Season 3 of Stories for Earth is coming soon to Apple Podcasts, Spotify, Sticher, or wherever you get podcasts. Subscribe for updates on new episodes!</p>
 <p>The post <a href="/2021/08/10/coming-soon-season-3/">Coming Soon: Stories for Earth Season 3</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -58,19 +66,19 @@
 
 
 
-<p>We have so many ways of telling stories, and I believe that paying attention to some of the best ones can help us as we try to navigate the bigger story, the climate story, in our own lives. We’ve already talked about some incredible stories on the show. Last season, we started out by talking about one of the greatest video games ever made, <a href="https://storiesforearth.com/2020/06/09/final-fantasy-vii-environmentalism/">Final Fantasy VII</a>, a tale of an ecoterrorist organization that must persevere against all odds in the fight to save the planet.</p>
+<p>We have so many ways of telling stories, and I believe that paying attention to some of the best ones can help us as we try to navigate the bigger story, the climate story, in our own lives. We’ve already talked about some incredible stories on the show. Last season, we started out by talking about one of the greatest video games ever made, <a href="/2020/06/09/final-fantasy-vii-environmentalism/">Final Fantasy VII</a>, a tale of an ecoterrorist organization that must persevere against all odds in the fight to save the planet.</p>
 
 
 
-<p>The current <a href="https://storiesforearth.com/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">US Poet Laureate Joy Harjo</a> spoke to us through poetry about what it was like when her people could hear the songs of plants, and why it’s imperative that all of us learn how to hear them now. A <a href="https://storiesforearth.com/2020/09/22/okja-bong-joon-ho/">farm girl from South Korea</a> showed just how far people will go to save the ones they love and how creating the world we want might just start with how we engage with capitalism.</p>
+<p>The current <a href="/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">US Poet Laureate Joy Harjo</a> spoke to us through poetry about what it was like when her people could hear the songs of plants, and why it’s imperative that all of us learn how to hear them now. A <a href="/2020/09/22/okja-bong-joon-ho/">farm girl from South Korea</a> showed just how far people will go to save the ones they love and how creating the world we want might just start with how we engage with capitalism.</p>
 
 
 
-<p>In her novel <em><a href="https://storiesforearth.com/2020/12/12/weather-by-jenny-offill/">Weather</a></em>, Jenny Offill taught us how a New York City librarian narrowly avoided becoming a doomer by learning to always look for the obligatory note of hope. A <a href="https://storiesforearth.com/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">heavy metal band from Australia</a> painted a vivid and terrifying audio picture of what kind of future we might expect if we don’t drastically change course immediately.</p>
+<p>In her novel <em><a href="/2020/12/12/weather-by-jenny-offill/">Weather</a></em>, Jenny Offill taught us how a New York City librarian narrowly avoided becoming a doomer by learning to always look for the obligatory note of hope. A <a href="/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">heavy metal band from Australia</a> painted a vivid and terrifying audio picture of what kind of future we might expect if we don’t drastically change course immediately.</p>
 
 
 
-<p>My friend from across the Atlantic and I had a makeshift therapy session with each other to process the eon-level view of life on this planet from <a href="https://storiesforearth.com/2021/02/23/the-overstory-richard-powers/"><em>The Overstory</em> by Richard Powers</a>, and <a href="https://storiesforearth.com/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/">Amitav Ghosh</a>, one of the most eminent writers on literature and the climate crisis, took us on a journey through the history of world literature to show us how modern literature is failing to address climate change and what must be done to change that.</p>
+<p>My friend from across the Atlantic and I had a makeshift therapy session with each other to process the eon-level view of life on this planet from <a href="/2021/02/23/the-overstory-richard-powers/"><em>The Overstory</em> by Richard Powers</a>, and <a href="/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/">Amitav Ghosh</a>, one of the most eminent writers on literature and the climate crisis, took us on a journey through the history of world literature to show us how modern literature is failing to address climate change and what must be done to change that.</p>
 
 
 
@@ -136,13 +144,13 @@
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[kim stanley robinson]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=710</guid>
+		<guid isPermaLink="false">/?p=710</guid>
 
 					<description><![CDATA[<p>Our discussion of Pacific Edge by Kim Stanley Robinson covers a plot summary and explores what our future can look like through this utopian eco fiction novel.</p>
 <p>The post <a href="/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -532,13 +540,13 @@ Split the world!</pre>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[daniel quinn]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=614</guid>
+		<guid isPermaLink="false">/?p=614</guid>
 
 					<description><![CDATA[<p>Daniel Quinn's ecofiction masterpiece, Ishmael, tells us how our mindset is destroying the Earth and leaves us with some ideas for a solution.</p>
 <p>The post <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">“Ishmael” by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -640,7 +648,7 @@ Split the world!</pre>
 
 
 
-<p><a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
+<p><a href="/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
 
 
 
@@ -664,7 +672,7 @@ Split the world!</pre>
 
 
 
-<p><a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
+<p><a href="/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
 
 
 
@@ -696,7 +704,7 @@ Split the world!</pre>
 
 
 
-<p><a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
+<p><a href="/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
 
 
 
@@ -760,7 +768,7 @@ Split the world!</pre>
 
 
 
-<p><a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
+<p><a href="/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
 
 
 
@@ -804,7 +812,7 @@ Split the world!</pre>
 
 
 
-<p><a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
+<p><a href="/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
 
 
 
@@ -884,7 +892,7 @@ Split the world!</pre>
 
 
 
-<p><a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
+<p><a href="/2020/01/14/ishmael-daniel-quinn-climate-change/#top">Back to top ↑</a></p>
 
 
 
@@ -973,13 +981,13 @@ Split the world!</pre>
 		<category><![CDATA[benh zeitlin]]></category>
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[movies]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=573</guid>
+		<guid isPermaLink="false">/?p=573</guid>
 
 					<description><![CDATA[<p>Beasts of the Southern Wild has a lot to teach us about responding to climate change. Listen along to hear more about this film's environmental themes.</p>
 <p>The post <a href="/2019/12/23/beasts-of-the-southern-wild-climate-change/">&#8220;Beasts of the Southern Wild,&#8221; Hurricane Katrina, and Climate Change</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -1405,13 +1413,13 @@ Split the world!</pre>
 		<category><![CDATA[movies]]></category>
 		<category><![CDATA[spirited away]]></category>
 		<category><![CDATA[studio ghibli]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=422</guid>
+		<guid isPermaLink="false">/?p=422</guid>
 
 					<description><![CDATA[<p>Spirited Away from Hayao Miyazaki is one of the most loved animated films of all time. Listen along for our discussion of environmental themes in Spirited Away.</p>
 <p>The post <a href="/2019/11/12/episode-3-spirited-away-from-hiyao-miyazaki/">&#8220;Spirited Away&#8221; from Hayao Miyazaki</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -1537,7 +1545,7 @@ Split the world!</pre>
 
 
 
-<p>Two things: first, we have a website at <a href="https://storiesforearth.com/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">storiesforearth.com</a>. There you can find transcripts of the show, articles about the stories we discuss, and recommendations for further reading, among other content. We&#8217;re also on <a href="https://www.instagram.com/storiesforearth/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)">Instagram</a>, <a href="https://twitter.com/stories4earth/" target="_blank" rel="noreferrer noopener" aria-label="Twitter (opens in a new tab)">Twitter</a>, and <a href="https://www.youtube.com/channel/UCGmH6FisTges9AzQlfbg-hg" target="_blank" rel="noreferrer noopener" aria-label="YouTube (opens in a new tab)">YouTube</a> if you want to follow us on social media.</p>
+<p>Two things: first, we have a website at <a href="/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">storiesforearth.com</a>. There you can find transcripts of the show, articles about the stories we discuss, and recommendations for further reading, among other content. We&#8217;re also on <a href="https://www.instagram.com/storiesforearth/" target="_blank" rel="noreferrer noopener" aria-label="Instagram (opens in a new tab)">Instagram</a>, <a href="https://twitter.com/stories4earth/" target="_blank" rel="noreferrer noopener" aria-label="Twitter (opens in a new tab)">Twitter</a>, and <a href="https://www.youtube.com/channel/UCGmH6FisTges9AzQlfbg-hg" target="_blank" rel="noreferrer noopener" aria-label="YouTube (opens in a new tab)">YouTube</a> if you want to follow us on social media.</p>
 
 
 
@@ -1753,7 +1761,7 @@ Split the world!</pre>
 
 
 
-<p>That’s it for our discussion of <em>Spirited Away</em>. If you like what you heard today and want to learn more, visit our website at <a href="https://storiesforearth.com/" target="_blank" rel="noreferrer noopener" aria-label="storiesforearth.com (opens in a new tab)">storiesforearth.com</a> for more episodes, articles, and recommendations for further reading.</p>
+<p>That’s it for our discussion of <em>Spirited Away</em>. If you like what you heard today and want to learn more, visit our website at <a href="/" target="_blank" rel="noreferrer noopener" aria-label="storiesforearth.com (opens in a new tab)">storiesforearth.com</a> for more episodes, articles, and recommendations for further reading.</p>
 
 
 
@@ -1857,13 +1865,13 @@ Split the world!</pre>
 		<category><![CDATA[octavia butler]]></category>
 		<category><![CDATA[parable of the talents]]></category>
 		<category><![CDATA[parable series]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=382</guid>
+		<guid isPermaLink="false">/?p=382</guid>
 
 					<description><![CDATA[<p>Octavia Butler's Parable of the Talents can teach us the mental skills we need to respond and adapt to climate change.</p>
 <p>The post <a href="/2019/10/30/parable-of-the-talents-and-climate-change/">&#8220;Parable of the Talents&#8221; And Climate Change: Summary And Analysis Of Environmental Themes</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -1871,7 +1879,7 @@ Split the world!</pre>
 
 
 
-<p>Octavia Butler wasn’t setting out to prophesy when she wrote <em>Parable of the Talents</em> and its prequel, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://storiesforearth.com/2019/09/30/parable-of-the-sower-and-climate-change/" target="_blank"><em>Parable of the Sower</em></a><em>. </em>She was trying to warn us of what the future could look like if we don’t take drastic efforts to mitigate the worst effects of climate change.</p>
+<p>Octavia Butler wasn’t setting out to prophesy when she wrote <em>Parable of the Talents</em> and its prequel, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/2019/09/30/parable-of-the-sower-and-climate-change/" target="_blank"><em>Parable of the Sower</em></a><em>. </em>She was trying to warn us of what the future could look like if we don’t take drastic efforts to mitigate the worst effects of climate change.</p>
 
 
 
@@ -1901,7 +1909,7 @@ Split the world!</pre>
 
 
 
-<p><strong>Also read:</strong> <a href="http://storiesforearth.com/2019/09/30/parable-of-the-sower-and-climate-change/">Parable of the Sower and Climate Change</a></p>
+<p><strong>Also read:</strong> <a href="/2019/09/30/parable-of-the-sower-and-climate-change/">Parable of the Sower and Climate Change</a></p>
 
 
 
@@ -1953,7 +1961,7 @@ Split the world!</pre>
 
 
 
-<p>You can also read articles on our website about the stories we cover on the podcast. Visit our <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://storiesforearth.com/category/blog/" target="_blank">blog</a> to read more articles similar to this one.</p>
+<p>You can also read articles on our website about the stories we cover on the podcast. Visit our <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/category/blog/" target="_blank">blog</a> to read more articles similar to this one.</p>
 
 
 
@@ -1984,13 +1992,13 @@ Split the world!</pre>
 		<category><![CDATA[octavia butler]]></category>
 		<category><![CDATA[parable of the talents]]></category>
 		<category><![CDATA[parable series]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=358</guid>
+		<guid isPermaLink="false">/?p=358</guid>
 
 					<description><![CDATA[<p>Parable of the Talents by Octavia Butler is the second book in the Parable series. Tune in for a plot summary and our take on major themes.</p>
 <p>The post <a href="/2019/10/08/parable-of-the-talents-octavia-butler/">&#8220;Parable of the Talents&#8221; by Octavia E. Butler</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -2327,13 +2335,13 @@ Split the world!</pre>
 		<category><![CDATA[octavia butler]]></category>
 		<category><![CDATA[octavia e butler]]></category>
 		<category><![CDATA[parable of the sower]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=279</guid>
+		<guid isPermaLink="false">/?p=279</guid>
 
 					<description><![CDATA[<p>Parable of the Sower by Octavia E. Butler has a lot to teach us about responding to climate change. Read our analysis of major themes like hyperempathy, resilience, and more.</p>
 <p>The post <a href="/2019/09/30/parable-of-the-sower-and-climate-change/">&#8220;Parable of the Sower&#8221; and Climate Change</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Though it would be 13 more years before global warming really entered the public consciousness with the release of Al Gore&#8217;s <em>An Inconvenient Truth</em>, science fiction author <a rel="noreferrer noopener" href="https://octaviabutler.org/" target="_blank">Octavia E. Butler</a> made waves in drawing public attention to the dangers of climate change with her 1993 novel <a href="https://storiesforearth.com/2019/09/10/parable-of-the-sower-octavia-butler/"><em>Parable of the Sower</em></a>. Now, as millions of people <a rel="noreferrer noopener" href="https://www.vox.com/2019/9/17/20864740/greta-thunberg-youth-climate-strike-fridays-future" target="_blank">take to the streets</a> to protest the fossil fuel industry, it&#8217;s never been more important to discuss <em>Parable of the Sower</em> and climate change.</p>
+<p>Though it would be 13 more years before global warming really entered the public consciousness with the release of Al Gore&#8217;s <em>An Inconvenient Truth</em>, science fiction author <a rel="noreferrer noopener" href="https://octaviabutler.org/" target="_blank">Octavia E. Butler</a> made waves in drawing public attention to the dangers of climate change with her 1993 novel <a href="/2019/09/10/parable-of-the-sower-octavia-butler/"><em>Parable of the Sower</em></a>. Now, as millions of people <a rel="noreferrer noopener" href="https://www.vox.com/2019/9/17/20864740/greta-thunberg-youth-climate-strike-fridays-future" target="_blank">take to the streets</a> to protest the fossil fuel industry, it&#8217;s never been more important to discuss <em>Parable of the Sower</em> and climate change.</p>
 
 
 
@@ -2359,7 +2367,7 @@ Split the world!</pre>
 
 
 
-<p><strong>Also read:</strong> <a href="http://storiesforearth.com/2019/10/30/parable-of-the-talents-and-climate-change/">Parable of the Talents And Climate Change</a></p>
+<p><strong>Also read:</strong> <a href="/2019/10/30/parable-of-the-talents-and-climate-change/">Parable of the Talents And Climate Change</a></p>
 
 
 
@@ -2486,13 +2494,13 @@ Split the world!</pre>
 		<category><![CDATA[parable series]]></category>
 		<category><![CDATA[science fiction]]></category>
 		<category><![CDATA[storytelling]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=225</guid>
+		<guid isPermaLink="false">/?p=225</guid>
 
 					<description><![CDATA[<p>Parable of the Sower by Octavia Butler examines a near-future United States wrecked by climate change. Here's how it can help us today.</p>
 <p>The post <a href="/2019/09/10/parable-of-the-sower-octavia-butler/">&#8220;Parable of the Sower&#8221; by Octavia E. Butler: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -2558,7 +2566,7 @@ Split the world!</pre>
 
 
 
-<p><em>Parable of the Sower</em> by Octavia E. Butler (<a href="https://bookshop.org/a/140/9781538732182" target="_blank" rel="noreferrer noopener">buy on Bookshop from $15.63</a>) is a groundbreaking speculative fiction novel that tells the story of young Lauren Olamina as she journeys to Northern California to escape ecological and societal collapse in Southern California. Today, the book is heralded as one of the first major works of <a href="https://storiesforearth.com/2019/12/04/what-is-climate-fiction/">climate fiction or cli-fi</a>. After Lauren&#8217;s town is destroyed by an outlaw group of drug addicts, she must learn to survive in a world reeling from the devastating effects of climate change. Along the way, Lauren starts a religion called Earthseed, forms a ragtag band of followers, and makes plans to found her own sustainable community in Northern California.</p>
+<p><em>Parable of the Sower</em> by Octavia E. Butler (<a href="https://bookshop.org/a/140/9781538732182" target="_blank" rel="noreferrer noopener">buy on Bookshop from $15.63</a>) is a groundbreaking speculative fiction novel that tells the story of young Lauren Olamina as she journeys to Northern California to escape ecological and societal collapse in Southern California. Today, the book is heralded as one of the first major works of <a href="/2019/12/04/what-is-climate-fiction/">climate fiction or cli-fi</a>. After Lauren&#8217;s town is destroyed by an outlaw group of drug addicts, she must learn to survive in a world reeling from the devastating effects of climate change. Along the way, Lauren starts a religion called Earthseed, forms a ragtag band of followers, and makes plans to found her own sustainable community in Northern California.</p>
 
 
 
@@ -2746,7 +2754,7 @@ https://www.youtube.com/watch?v=66pu-Miq4tk
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2019/10/08/parable-of-the-talents-octavia-butler/">&#8220;Parable of the Talents&#8221; by Octavia E. Butler</a></p>
+<p><strong>Also read:</strong> <a href="/2019/10/08/parable-of-the-talents-octavia-butler/">&#8220;Parable of the Talents&#8221; by Octavia E. Butler</a></p>
 
 
 
@@ -2862,7 +2870,7 @@ https://www.youtube.com/watch?v=66pu-Miq4tk
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -2975,9 +2983,9 @@ https://www.youtube.com/watch?v=66pu-Miq4tk
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[introduction]]></category>
 		<category><![CDATA[storytelling]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=207</guid>
+		<guid isPermaLink="false">/?p=207</guid>
 
-					<description><![CDATA[<p>Climate change is an existential threat that threatens humanity's existence. But we aren't totally alone in fighting it—stories are some of our oldest tools for overcoming hardship, and they have a role to play here, too. Website: https://storiesforearth.com/ Support us on Patreon: https://www.patreon.com/storiesforearth</p>
+					<description><![CDATA[<p>Climate change is an existential threat that threatens humanity's existence. But we aren't totally alone in fighting it—stories are some of our oldest tools for overcoming hardship, and they have a role to play here, too. Website: / Support us on Patreon: https://www.patreon.com/storiesforearth</p>
 <p>The post <a href="/2019/08/27/introduction/">Introduction to Stories for Earth</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[

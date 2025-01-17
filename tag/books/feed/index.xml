@@ -10,7 +10,7 @@
 <channel>
 	<title>Stories for Earth</title>
 	<atom:link href="/tag/books/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://storiesforearth.com/</link>
 	<description>Stories for Earth is a climate change podcast that critically engages with stories that can teach us strength and resilience in fighting the climate crisis.</description>
 	<lastBuildDate>Fri, 17 Jan 2025 15:59:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/cropped-new-stories-for-earth-book-150x150.png</url>
+	<title>Stories for Earth</title>
+	<link>https://storiesforearth.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>In &#8220;The Ministry for the Future,&#8221; New Ideas From Ancient Wisdom</title>
 		<link>/2024/12/23/ministry-for-the-future-new-ideas-ancient-wisdom/</link>
@@ -221,13 +229,13 @@
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[kim stanley robinson]]></category>
 		<category><![CDATA[season 3]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1704</guid>
+		<guid isPermaLink="false">/?p=1704</guid>
 
 					<description><![CDATA[<p>New York 2140 is the story of how a future New York City adapts to climate change and works to build a better world.</p>
 <p>The post <a href="/2022/01/03/new-york-2140-kim-stanley-robinson/">&#8220;New York 2140&#8221; by Kim Stanley Robinson: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -373,7 +381,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a></p>
+<p><strong>Also read:</strong> <a href="/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a></p>
 
 
 
@@ -491,7 +499,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -681,13 +689,13 @@
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[season 3]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1542</guid>
+		<guid isPermaLink="false">/?p=1542</guid>
 
 					<description><![CDATA[<p>How Beautiful We Were by Imbolo Mbue is the story of one small African village as it fights for justice from an American oil company.</p>
 <p>The post <a href="/2021/08/24/how-beautiful-we-were-imbolo-mbue/">&#8220;How Beautiful We Were&#8221; by Imbolo Mbue: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -871,7 +879,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
+<p><strong>Also read:</strong> <a href="/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
 
 
 
@@ -955,7 +963,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">Joy Harjo: &#8220;Crazy Brave,&#8221; &#8220;An American Sunrise,&#8221; And The Land</a></p>
+<p><strong>Also read:</strong> <a href="/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">Joy Harjo: &#8220;Crazy Brave,&#8221; &#8220;An American Sunrise,&#8221; And The Land</a></p>
 
 
 
@@ -999,7 +1007,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">“Ishmael” by Daniel Quinn, Climate Change, and Moving Beyond a Vision of&nbsp;Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">“Ishmael” by Daniel Quinn, Climate Change, and Moving Beyond a Vision of&nbsp;Doom</a></p>
 
 
 
@@ -1153,13 +1161,13 @@
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[season 3]]></category>
 		<category><![CDATA[trailer]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1535</guid>
+		<guid isPermaLink="false">/?p=1535</guid>
 
 					<description><![CDATA[<p>Season 3 of Stories for Earth is coming soon to Apple Podcasts, Spotify, Sticher, or wherever you get podcasts. Subscribe for updates on new episodes!</p>
 <p>The post <a href="/2021/08/10/coming-soon-season-3/">Coming Soon: Stories for Earth Season 3</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -1181,19 +1189,19 @@
 
 
 
-<p>We have so many ways of telling stories, and I believe that paying attention to some of the best ones can help us as we try to navigate the bigger story, the climate story, in our own lives. We’ve already talked about some incredible stories on the show. Last season, we started out by talking about one of the greatest video games ever made, <a href="https://storiesforearth.com/2020/06/09/final-fantasy-vii-environmentalism/">Final Fantasy VII</a>, a tale of an ecoterrorist organization that must persevere against all odds in the fight to save the planet.</p>
+<p>We have so many ways of telling stories, and I believe that paying attention to some of the best ones can help us as we try to navigate the bigger story, the climate story, in our own lives. We’ve already talked about some incredible stories on the show. Last season, we started out by talking about one of the greatest video games ever made, <a href="/2020/06/09/final-fantasy-vii-environmentalism/">Final Fantasy VII</a>, a tale of an ecoterrorist organization that must persevere against all odds in the fight to save the planet.</p>
 
 
 
-<p>The current <a href="https://storiesforearth.com/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">US Poet Laureate Joy Harjo</a> spoke to us through poetry about what it was like when her people could hear the songs of plants, and why it’s imperative that all of us learn how to hear them now. A <a href="https://storiesforearth.com/2020/09/22/okja-bong-joon-ho/">farm girl from South Korea</a> showed just how far people will go to save the ones they love and how creating the world we want might just start with how we engage with capitalism.</p>
+<p>The current <a href="/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">US Poet Laureate Joy Harjo</a> spoke to us through poetry about what it was like when her people could hear the songs of plants, and why it’s imperative that all of us learn how to hear them now. A <a href="/2020/09/22/okja-bong-joon-ho/">farm girl from South Korea</a> showed just how far people will go to save the ones they love and how creating the world we want might just start with how we engage with capitalism.</p>
 
 
 
-<p>In her novel <em><a href="https://storiesforearth.com/2020/12/12/weather-by-jenny-offill/">Weather</a></em>, Jenny Offill taught us how a New York City librarian narrowly avoided becoming a doomer by learning to always look for the obligatory note of hope. A <a href="https://storiesforearth.com/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">heavy metal band from Australia</a> painted a vivid and terrifying audio picture of what kind of future we might expect if we don’t drastically change course immediately.</p>
+<p>In her novel <em><a href="/2020/12/12/weather-by-jenny-offill/">Weather</a></em>, Jenny Offill taught us how a New York City librarian narrowly avoided becoming a doomer by learning to always look for the obligatory note of hope. A <a href="/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">heavy metal band from Australia</a> painted a vivid and terrifying audio picture of what kind of future we might expect if we don’t drastically change course immediately.</p>
 
 
 
-<p>My friend from across the Atlantic and I had a makeshift therapy session with each other to process the eon-level view of life on this planet from <a href="https://storiesforearth.com/2021/02/23/the-overstory-richard-powers/"><em>The Overstory</em> by Richard Powers</a>, and <a href="https://storiesforearth.com/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/">Amitav Ghosh</a>, one of the most eminent writers on literature and the climate crisis, took us on a journey through the history of world literature to show us how modern literature is failing to address climate change and what must be done to change that.</p>
+<p>My friend from across the Atlantic and I had a makeshift therapy session with each other to process the eon-level view of life on this planet from <a href="/2021/02/23/the-overstory-richard-powers/"><em>The Overstory</em> by Richard Powers</a>, and <a href="/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/">Amitav Ghosh</a>, one of the most eminent writers on literature and the climate crisis, took us on a journey through the history of world literature to show us how modern literature is failing to address climate change and what must be done to change that.</p>
 
 
 
@@ -1257,13 +1265,13 @@
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[season 2]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1340</guid>
+		<guid isPermaLink="false">/?p=1340</guid>
 
 					<description><![CDATA[<p>Gun Island and The Great Derangement are two books by Amitav Ghosh that explore the role stories should play in fighting the climate crisis.</p>
 <p>The post <a href="/2021/04/15/gun-island-the-great-derangement-amitav-ghosh/">&#8220;Gun Island&#8221; and &#8220;The Great Derangement&#8221; by Amitav Ghosh: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -1391,7 +1399,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2019/12/23/beasts-of-the-southern-wild-climate-change/">&#8220;Beasts of the Southern Wild,&#8221; Hurricane Katrina, and Climate Change</a></p>
+<p><strong>Also read:</strong> <a href="/2019/12/23/beasts-of-the-southern-wild-climate-change/">&#8220;Beasts of the Southern Wild,&#8221; Hurricane Katrina, and Climate Change</a></p>
 
 
 
@@ -1475,7 +1483,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
+<p><strong>Also read:</strong> <a href="/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
 
 
 
@@ -1611,7 +1619,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2021/02/23/the-overstory-richard-powers/">&#8220;The Overstory&#8221; by Richard Powers with Lovis Geier: Summary &amp; Analysis</a></p>
+<p><strong>Also read:</strong> <a href="/2021/02/23/the-overstory-richard-powers/">&#8220;The Overstory&#8221; by Richard Powers with Lovis Geier: Summary &amp; Analysis</a></p>
 
 
 
@@ -1711,7 +1719,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
+<p><strong>Also read:</strong> <a href="/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
 
 
 
@@ -1739,7 +1747,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -1767,7 +1775,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a></p>
+<p><strong>Also read:</strong> <a href="/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a></p>
 
 
 
@@ -1971,13 +1979,13 @@
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[season 2]]></category>
-		<guid isPermaLink="false">https://storiesforearth.com/?p=1223</guid>
+		<guid isPermaLink="false">/?p=1223</guid>
 
 					<description><![CDATA[<p>The Overstory by Richard Powers is an epic work of eco fiction. Forrest and Lovis discuss its characters, themes, and message in this podcast.</p>
 <p>The post <a href="/2021/02/23/the-overstory-richard-powers/">&#8220;The Overstory&#8221; by Richard Powers with Lovis Geier: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -2183,7 +2191,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
+<p><strong>Also read:</strong> <a href="/2021/01/26/infest-the-rats-nest-by-king-gizzard-the-lizard-wizard/">&#8220;Infest The Rats&#8217; Nest&#8221; by King Gizzard &amp; The Lizard Wizard</a></p>
 
 
 
@@ -2283,7 +2291,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2019/09/10/parable-of-the-sower-octavia-butler/">&#8220;Parable of the Sower&#8221; by Octavia E. Butler</a></p>
+<p><strong>Also read:</strong> <a href="/2019/09/10/parable-of-the-sower-octavia-butler/">&#8220;Parable of the Sower&#8221; by Octavia E. Butler</a></p>
 
 
 
@@ -2505,7 +2513,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">&#8220;Ishmael&#8221; by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -2633,7 +2641,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
+<p><strong>Also read:</strong> <a href="/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill</a></p>
 
 
 
@@ -2717,7 +2725,7 @@
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">Joy Harjo: &#8220;Crazy Brave,&#8221; &#8220;An American Sunset,&#8221; And The Land</a></p>
+<p><strong>Also read:</strong> <a href="/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">Joy Harjo: &#8220;Crazy Brave,&#8221; &#8220;An American Sunset,&#8221; And The Land</a></p>
 
 
 
@@ -3514,13 +3522,13 @@
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[jenny offill]]></category>
 		<category><![CDATA[weather]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=991</guid>
+		<guid isPermaLink="false">/?p=991</guid>
 
 					<description><![CDATA[<p>Weather by Jenny Offill is the story of Lizzie, a woman who goes down the climate doom rabbit hole after working on a climate change podcast.</p>
 <p>The post <a href="/2020/12/12/weather-by-jenny-offill/">&#8220;Weather&#8221; by Jenny Offill: Summary &amp; Analysis</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -3642,7 +3650,7 @@
 
 
 
-<p>If Patreon isn’t your thing, you can also make a one-time donation through the <a href="https://storiesforearth.com/support-us/">support page</a> on our website at storiesforearth.com, or you can buy a book from our Bookshop.org page. If you want to lend your financial support to the show, our Patreon is patreon.com/storiesforearth, and our Bookshop.org page is bookshop.org/shop/storiesforearth. You can also find these links on our support page at storiesforearth.com.</p>
+<p>If Patreon isn’t your thing, you can also make a one-time donation through the <a href="/support-us/">support page</a> on our website at storiesforearth.com, or you can buy a book from our Bookshop.org page. If you want to lend your financial support to the show, our Patreon is patreon.com/storiesforearth, and our Bookshop.org page is bookshop.org/shop/storiesforearth. You can also find these links on our support page at storiesforearth.com.</p>
 
 
 
@@ -3760,7 +3768,7 @@
 
 
 
-<p>And like Lizzie in some ways, I came to the same conclusion after my own bout of doomerism. In some ways, it&#8217;s the only option apart from choosing to turn a blind eye to what&#8217;s happening in an attempt to return to blissful ignorance, a philosophical position tantamount to nihilism, in my opinion. A 19th century German philosopher named Friedrich Nietzsche put it another way: “Whoever fights monsters should see to it that in the process he does not become a monster. And when you look long into an abyss, the abyss also looks into you.” (<em>Beyond Good &amp; Evil</em>, pg. 89). Whatever you call it—burnout, hopelessness, despair, deciding it&#8217;s too late—this is perhaps the greatest danger of engaging in the work of tackling climate change. We must carefully guard our souls. Thinking back to <a href="https://storiesforearth.com/2019/11/12/episode-3-spirited-away-from-hiyao-miyazaki/">our episode on <em>Spirited Away</em></a>, we must not forget our real names.</p>
+<p>And like Lizzie in some ways, I came to the same conclusion after my own bout of doomerism. In some ways, it&#8217;s the only option apart from choosing to turn a blind eye to what&#8217;s happening in an attempt to return to blissful ignorance, a philosophical position tantamount to nihilism, in my opinion. A 19th century German philosopher named Friedrich Nietzsche put it another way: “Whoever fights monsters should see to it that in the process he does not become a monster. And when you look long into an abyss, the abyss also looks into you.” (<em>Beyond Good &amp; Evil</em>, pg. 89). Whatever you call it—burnout, hopelessness, despair, deciding it&#8217;s too late—this is perhaps the greatest danger of engaging in the work of tackling climate change. We must carefully guard our souls. Thinking back to <a href="/2019/11/12/episode-3-spirited-away-from-hiyao-miyazaki/">our episode on <em>Spirited Away</em></a>, we must not forget our real names.</p>
 
 
 
@@ -3924,13 +3932,13 @@
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[ishmael]]></category>
 		<category><![CDATA[parable of the sower]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=919</guid>
+		<guid isPermaLink="false">/?p=919</guid>
 
 					<description><![CDATA[<p>Climate fiction is a growing genre, and it can be hard to know where to start. Here are the best cli-fi books, movies, and short stories.</p>
 <p>The post <a href="/2020/08/10/where-to-get-started-with-climate-fiction-cli-fi/">Where To Get Started With Climate Fiction (Cli-Fi)</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -3938,7 +3946,7 @@
 
 
 
-<p>Climate fiction (cli-fi) has soared in popularity in recent years with the increased awareness about the dangers of climate change. This is certainly a good thing—<a href="https://storiesforearth.com/2019/12/04/what-is-climate-fiction/">cli-fi</a> can help a macro threat like climate change seem more relatable, and many cli-fi readers feel more motivated to demand climate action. While I’m thrilled to see more authors and filmmakers embracing the burgeoning cli-fi genre, readers sometimes feel overwhelmed looking at all the options.</p>
+<p>Climate fiction (cli-fi) has soared in popularity in recent years with the increased awareness about the dangers of climate change. This is certainly a good thing—<a href="/2019/12/04/what-is-climate-fiction/">cli-fi</a> can help a macro threat like climate change seem more relatable, and many cli-fi readers feel more motivated to demand climate action. While I’m thrilled to see more authors and filmmakers embracing the burgeoning cli-fi genre, readers sometimes feel overwhelmed looking at all the options.</p>
 
 
 
@@ -3972,7 +3980,7 @@
 
 
 
-<p><strong>Listen to the episode:</strong> <a href="https://storiesforearth.com/2019/09/10/parable-of-the-sower-octavia-butler/"><em>Parable of the Sower</em> by Octavia E. Butler</a></p>
+<p><strong>Listen to the episode:</strong> <a href="/2019/09/10/parable-of-the-sower-octavia-butler/"><em>Parable of the Sower</em> by Octavia E. Butler</a></p>
 
 
 
@@ -3994,7 +4002,7 @@
 
 
 
-<p><strong>Listen to the episode:</strong> <a href="https://storiesforearth.com/2019/12/23/beasts-of-the-southern-wild-climate-change/"><em>Beasts of the Southern Wild</em>, Hurricane Katrina, and Climate Change</a></p>
+<p><strong>Listen to the episode:</strong> <a href="/2019/12/23/beasts-of-the-southern-wild-climate-change/"><em>Beasts of the Southern Wild</em>, Hurricane Katrina, and Climate Change</a></p>
 
 
 
@@ -4054,7 +4062,7 @@
 
 
 
-<p><strong>Listen to the episode:</strong> <a href="http://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/"><em>Ishmael </em>by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Listen to the episode:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/"><em>Ishmael </em>by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -4102,13 +4110,13 @@
 				<category><![CDATA[Episodes]]></category>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[joy harjo]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=860</guid>
+		<guid isPermaLink="false">/?p=860</guid>
 
 					<description><![CDATA[<p>We take a deep dive into two of Joy Harjo's books, Crazy Brave and An American Sunrise, exploring what they say about Native history and environmentalism.</p>
 <p>The post <a href="/2020/08/04/joy-harjo-crazy-brave-an-american-sunrise/">Joy Harjo: &#8220;Crazy Brave,&#8221; &#8220;An American Sunrise,&#8221; And The Land</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
@@ -4363,7 +4371,7 @@ and desecrated places.
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2020/01/14/ishmael-daniel-quinn-climate-change/">“Ishmael” by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
+<p><strong>Also read:</strong> <a href="/2020/01/14/ishmael-daniel-quinn-climate-change/">“Ishmael” by Daniel Quinn, Climate Change, and Moving Beyond a Vision of Doom</a></p>
 
 
 
@@ -4522,7 +4530,7 @@ Making threaded with addiction and dead words.</pre>
 
 
 
-<p><strong>Also read:</strong> <a href="https://storiesforearth.com/2019/12/23/beasts-of-the-southern-wild-climate-change/">&#8220;Beasts of the Southern Wild,&#8221; Hurricane Katrina, and Climate Change</a></p>
+<p><strong>Also read:</strong> <a href="/2019/12/23/beasts-of-the-southern-wild-climate-change/">&#8220;Beasts of the Southern Wild,&#8221; Hurricane Katrina, and Climate Change</a></p>
 
 
 
@@ -4640,13 +4648,13 @@ Making threaded with addiction and dead words.</pre>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[climate change]]></category>
 		<category><![CDATA[kim stanley robinson]]></category>
-		<guid isPermaLink="false">http://storiesforearth.com/?p=710</guid>
+		<guid isPermaLink="false">/?p=710</guid>
 
 					<description><![CDATA[<p>Our discussion of Pacific Edge by Kim Stanley Robinson covers a plot summary and explores what our future can look like through this utopian eco fiction novel.</p>
 <p>The post <a href="/2020/02/25/pacific-edge-kim-stanley-robinson/">&#8220;Pacific Edge&#8221; by Kim Stanley Robinson: A Future Mythology</a> appeared first on <a href="/">Stories for Earth</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="https://storiesforearth.com/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
+<p><em>Stories for Earth relies on contributions from our listeners and readers to produce high quality, in-depth content. If you buy something using the links on our website, we may</em> <em>earn a small commission, at no extra cost to you. <em>For more information</em>, see our <a href="/affiliate-disclosure/">Affiliate Disclosure</a>.</em></p>
 
 
 
